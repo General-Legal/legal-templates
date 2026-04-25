@@ -1,12 +1,24 @@
 """
 Convert .docx legal templates to clean, LLM-optimized markdown.
 
+Reads .docx files from docx-originals/ and writes markdown to
+templates/<slug>/template.md.
+
+Usage:
+    python3 scripts/convert_docx.py
+
+Requires:
+    pip install python-docx
+
 Design principles:
-- Highlighted text → <mark>text</mark> (template placeholders)
-- No programmatic templating syntax (no {{ }}, no [ ] manipulation)
-- Preserve document structure: headings, lists, tables, paragraphs
-- Strip formatting artifacts, keep content faithful to the original
-- Output should read naturally to an LLM as a legal document
+- Highlighted text becomes <mark>text</mark> (template placeholders).
+- No programmatic templating syntax. The output is a readable legal
+  document, not code.
+- Preserve document structure: headings, numbered lists, tables,
+  and paragraphs.
+- Normalize non-ASCII whitespace and smart punctuation to ASCII
+  equivalents for maximum compatibility.
+- Signature-block tables are simplified into plain text.
 """
 
 import re
@@ -14,15 +26,33 @@ from pathlib import Path
 from docx import Document
 from docx.enum.text import WD_COLOR_INDEX
 
+# Word XML namespace prefix
 WML = "{http://schemas.openxmlformats.org/wordprocessingml/2006/main}"
+
+# Maps each .docx stem to the directory slug under templates/
+TEMPLATE_MAP = {
+    "Business Associate Agreement (BAA)": "business-associate-agreement",
+    "Cookie Notice": "cookie-notice",
+    "Mutual Non-Disclosure Agreement (NDA)": "mutual-nda",
+    "One-Way Non-Disclosure Agreement (NDA)": "one-way-nda",
+    "Privacy Policy (GDPR)": "privacy-policy-gdpr",
+    "Privacy Policy (US)": "privacy-policy-us",
+    "Terms of Use": "terms-of-use",
+}
 
 
 def is_highlighted(run):
+    """Return True if the run has any highlight color applied."""
     hl = run.font.highlight_color
     return hl is not None and hl != WD_COLOR_INDEX.AUTO
 
 
 def run_to_text(run):
+    """Convert a single run to markdown text.
+
+    Highlighted runs become <mark>...</mark>. Bold and italic are
+    converted to standard markdown emphasis markers.
+    """
     text = run.text
     if not text:
         return ""
@@ -38,17 +68,26 @@ def run_to_text(run):
 
 
 def para_to_text(para):
+    """Assemble all runs in a paragraph into a single markdown string.
+
+    Adjacent <mark> tags and bold markers are merged so the output
+    doesn't contain empty or redundant formatting spans.
+    """
     parts = [run_to_text(r) for r in para.runs]
     text = "".join(parts)
-    # Merge adjacent marks: </mark><mark> → nothing
+    # Merge adjacent marks: </mark><mark> -> empty
     text = re.sub(r"</mark>\s*<mark>", "", text)
-    # Merge adjacent bold: ****** → nothing
+    # Merge adjacent bold: **** -> empty
     text = re.sub(r"\*\*\*\*", "", text)
     return text.strip()
 
 
 def get_list_level(para):
-    """Return (level, is_numbered) or None if not a list item."""
+    """Determine the list nesting level of a paragraph.
+
+    Returns (level, True) for list items, or None for non-list
+    paragraphs. The level is 0-based (0 = top level).
+    """
     style = para.style.name
     if style == "Tabbed_L1":
         return 0, True
@@ -73,8 +112,13 @@ def get_list_level(para):
 
 
 def table_to_markdown(table):
-    """Convert a docx table to a markdown table, or a simple
-    text block for signature tables."""
+    """Convert a docx table to markdown.
+
+    Regular tables become pipe-delimited markdown tables. Signature
+    block tables (detected by the presence of fields like "By:" and
+    party labels like "Company") are converted to plain-text blocks
+    instead, since their grid layout is not meaningful.
+    """
     rows = []
     for row in table.rows:
         cells = []
@@ -105,8 +149,12 @@ def table_to_markdown(table):
 
 
 def signature_block(rows):
-    """Convert a signature table into a clean readable block."""
-    # Deduplicate cells (merged cells repeat in python-docx)
+    """Convert a signature table into a readable plain-text block.
+
+    Merged cells in docx tables cause python-docx to repeat cell
+    values, so we deduplicate before rendering. Party headers are
+    bolded, and field labels are rendered as a simple list.
+    """
     seen = []
     for row in rows:
         for cell in row:
@@ -130,13 +178,32 @@ def signature_block(rows):
     return "\n".join(lines)
 
 
+def normalize_text(text):
+    """Replace non-ASCII whitespace and smart punctuation with ASCII.
+
+    Preserves meaningful symbols like section (S) and copyright (c).
+    """
+    text = text.replace("\u00a0", " ")   # non-breaking space
+    text = text.replace("\u2018", "'")    # left single quote
+    text = text.replace("\u2019", "'")    # right single quote
+    text = text.replace("\u201c", '"')    # left double quote
+    text = text.replace("\u201d", '"')    # right double quote
+    text = text.replace("\u2013", "-")    # en dash
+    text = text.replace("\u2014", "--")   # em dash
+    return text
+
+
 def convert(docx_path):
+    """Convert a .docx file to LLM-optimized markdown.
+
+    Walks the document body in order, handling paragraphs, headings,
+    numbered lists, and tables. Returns the full markdown string.
+    """
     doc = Document(docx_path)
     lines = []
     prev_blank = False
     counters = {}
 
-    # Walk document body in order (paragraphs + tables interleaved)
     for block in doc.element.body:
         tag = block.tag.split("}")[-1]
 
@@ -155,7 +222,6 @@ def convert(docx_path):
         if tag != "p":
             continue
 
-        # Find the matching Paragraph object
         para = None
         for p in doc.paragraphs:
             if p._element is block:
@@ -207,34 +273,20 @@ def convert(docx_path):
         counters = {}
 
     result = "\n".join(lines).strip()
-    # Collapse excessive blank lines
     result = re.sub(r"\n{3,}", "\n\n", result)
-    # Normalize non-ASCII characters to ASCII equivalents
-    result = result.replace("\u00a0", " ")   # non-breaking space
-    result = result.replace("\u2018", "'")    # left single quote
-    result = result.replace("\u2019", "'")    # right single quote
-    result = result.replace("\u201c", '"')    # left double quote
-    result = result.replace("\u201d", '"')    # right double quote
-    result = result.replace("\u2013", "-")    # en dash
-    result = result.replace("\u2014", "--")   # em dash
+    result = normalize_text(result)
     return result
 
 
-TEMPLATE_MAP = {
-    "Business Associate Agreement (BAA)": "business-associate-agreement",
-    "Cookie Notice": "cookie-notice",
-    "Mutual Non-Disclosure Agreement (NDA)": "mutual-nda",
-    "One-Way Non-Disclosure Agreement (NDA)": "one-way-nda",
-    "Privacy Policy (GDPR)": "privacy-policy-gdpr",
-    "Privacy Policy (US)": "privacy-policy-us",
-    "Terms of Use": "terms-of-use",
-}
-
-
 def main():
-    root = Path("/Users/ryanwalker/Desktop/legal-templates")
+    root = Path(__file__).resolve().parent.parent
     originals = root / "docx-originals"
 
+    if not originals.exists():
+        print(f"Error: {originals} not found.")
+        return
+
+    converted = 0
     for f in sorted(originals.glob("*.docx")):
         if f.name.startswith("~$"):
             continue
@@ -248,8 +300,9 @@ def main():
         dest.parent.mkdir(parents=True, exist_ok=True)
         dest.write_text(md + "\n", encoding="utf-8")
         print(f"  -> {dest.relative_to(root)} ({len(md):,} chars)")
+        converted += 1
 
-    print("\nDone.")
+    print(f"\nConverted {converted} templates.")
 
 
 if __name__ == "__main__":

@@ -1,3 +1,9 @@
+# macOS
+.DS_Store
+
+# Word temp files
+~$*.docx
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
