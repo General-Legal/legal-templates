@@ -29,15 +29,21 @@ from docx.enum.text import WD_COLOR_INDEX
 # Word XML namespace prefix
 WML = "{http://schemas.openxmlformats.org/wordprocessingml/2006/main}"
 
-# Maps each .docx stem to the directory slug under templates/
+# Maps each .docx stem (the library slug used by fetch_templates.py)
+# to the directory slug under templates/.
 TEMPLATE_MAP = {
-    "Business Associate Agreement (BAA)": "business-associate-agreement",
-    "Cookie Notice": "cookie-notice",
-    "Mutual Non-Disclosure Agreement (NDA)": "mutual-nda",
-    "One-Way Non-Disclosure Agreement (NDA)": "one-way-nda",
-    "Privacy Policy (GDPR)": "privacy-policy-gdpr",
-    "Privacy Policy (US)": "privacy-policy-us",
-    "Terms of Use": "terms-of-use",
+    "business-associate-agreement-baa": "business-associate-agreement",
+    "mutual-non-disclosure-agreement-nda": "mutual-nda",
+    "one-way-non-disclosure-agreement-nda": "one-way-nda",
+    "cookie-notice": "cookie-notice",
+    "privacy-policy-u-s-only": "privacy-policy-us",
+    "privacy-policy-gdpr-enhanced": "privacy-policy-gdpr",
+    "terms-of-use": "terms-of-use",
+    "data-processing-addendum-dpa": "dpa-us",
+    "data-processing-addendum-dpa-u-s-and-european-personal-data": "dpa-global",
+    "advisor-agreement": "advisor-agreement",
+    "employee-offer-letter": "employee-offer-letter",
+    "master-services-agreement-msa": "master-services-agreement",
 }
 
 
@@ -127,6 +133,8 @@ def table_to_markdown(table):
             cells.append(cell_text)
         rows.append(cells)
 
+    # Drop rows whose cells are all empty (decorative/layout rows in docx).
+    rows = [r for r in rows if any(c for c in r)]
     if not rows:
         return ""
 
