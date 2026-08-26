@@ -1,0 +1,24 @@
+name: Request a new template
+description: Suggest a document that belongs in this library
+labels: ["template-request"]
+body:
+  - type: input
+    id: document
+    attributes:
+      label: What document?
+      placeholder: e.g. End-user license agreement for a downloadable desktop app
+    validations:
+      required: true
+  - type: textarea
+    id: usecase
+    attributes:
+      label: Who needs it and when?
+      description: The situation that calls for this document, and why the existing templates do not cover it.
+    validations:
+      required: true
+  - type: input
+    id: jurisdiction
+    attributes:
+      label: Jurisdiction
+      description: These templates are drafted for U.S. companies. Requests for other jurisdictions are welcome but will take longer.
+      placeholder: United States

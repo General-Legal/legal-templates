@@ -1,0 +1,62 @@
+name: Problem with a template
+description: Report a typo, a drafting error, a stale citation, or a clause that does not hold up
+labels: ["template-issue"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for helping improve these templates. If the problem is sensitive, or you would rather not discuss a legal concern in public, contact [General Legal](https://general.legal) directly instead.
+  - type: dropdown
+    id: template
+    attributes:
+      label: Template
+      options:
+        - Advisor Agreement
+        - Business Associate Agreement (BAA)
+        - Cookie Notice
+        - Data Processing Addendum (U.S.)
+        - Data Processing Addendum (Global)
+        - Employee Offer Letter (California Exempt)
+        - Master Services Agreement (MSA)
+        - Mutual Non-Disclosure Agreement
+        - One-Way Non-Disclosure Agreement
+        - Privacy Policy (U.S. Only)
+        - Privacy Policy (GDPR Enhanced)
+        - Terms of Use
+        - More than one / not listed
+    validations:
+      required: true
+  - type: input
+    id: location
+    attributes:
+      label: Section or clause
+      description: The section heading, defined term, or line number where the problem appears.
+      placeholder: 'Section 9.3 "Procedure", or the definition of "Generic Tools"'
+    validations:
+      required: true
+  - type: dropdown
+    id: kind
+    attributes:
+      label: Kind of problem
+      options:
+        - Typo or formatting
+        - Drafting error (the clause does not do what it should)
+        - Leftover text from another document
+        - Stale or incorrect legal citation
+        - Jurisdiction mismatch
+        - Other
+    validations:
+      required: true
+  - type: textarea
+    id: detail
+    attributes:
+      label: What is wrong, and what would you expect instead?
+      description: Quote the current text and, if you can, the corrected text.
+    validations:
+      required: true
+  - type: input
+    id: jurisdiction
+    attributes:
+      label: Jurisdiction (if relevant)
+      description: These templates are drafted for U.S. companies. If your issue is jurisdiction-specific, say which one.
+      placeholder: e.g. Ontario, Canada
