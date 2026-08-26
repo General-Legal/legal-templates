@@ -26,7 +26,7 @@ These templates are provided in LLM-optimized markdown and original .docx format
 Every template is available three ways:
 
 - **Markdown** — browse `templates/<name>/template.md` in this repository, or read it with an agent.
-- **Word (.docx)** — download an individual file or `legal-templates-docx.zip` from the [latest release](https://github.com/General-Legal/legal-templates/releases/latest). These are compiled from the markdown on every tagged release, so they never drift from what you see here. Verify them against the `SHA256SUMS` published alongside.
+- **Word (.docx)** — download an individual file or `legal-templates-docx.zip` from the [latest release](https://github.com/General-Legal/legal-templates/releases/latest). Every release is compiled from the markdown in this repository by CI, so the two never drift apart. Verify downloads against the `SHA256SUMS` published alongside.
 - **Original .docx** — the `docx-originals/` directory holds the source files the markdown was converted from.
 
 To build the Word files yourself:

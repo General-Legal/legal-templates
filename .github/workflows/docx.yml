@@ -3,8 +3,14 @@ name: Build .docx
 # Markdown is the source of truth; the .docx files are compiled from it.
 # Every push and pull request that touches a template rebuilds them and
 # uploads them as a workflow artifact, so a reviewer can download the Word
-# version of a change before merging it. Tagging v* publishes the same
-# build as release assets.
+# version of a change before merging it.
+#
+# Both ways of cutting a release attach those .docx files to the release
+# page, so it does not matter which one you use:
+#   git tag v1.0.0 && git push origin v1.0.0   -> creates the release
+#   Releases > Draft a new release > Publish   -> attaches to the release
+# GitHub does not apply the paths filter below to tag pushes, so a v* tag
+# always builds even though it changes no files.
 on:
   push:
     branches: [main]
@@ -20,6 +26,8 @@ on:
       - 'scripts/build_docx.py'
       - 'scripts/requirements.txt'
       - '.github/workflows/docx.yml'
+  release:
+    types: [published]
   workflow_dispatch:
 
 permissions:
@@ -60,7 +68,7 @@ jobs:
 
   release:
     needs: build
-    if: startsWith(github.ref, 'refs/tags/v')
+    if: github.event_name == 'release' || startsWith(github.ref, 'refs/tags/v')
     runs-on: ubuntu-latest
     permissions:
       contents: write
@@ -72,17 +80,17 @@ jobs:
           name: legal-templates-docx
           path: build
 
-      - name: Publish release
+      # Publishing from the Releases page creates the release before this
+      # workflow starts, so create it only when it is not already there and
+      # upload the assets either way.
+      - name: Attach .docx files to the release
         env:
           GH_TOKEN: ${{ github.token }}
-          TAG: ${{ github.ref_name }}
+          TAG: ${{ github.event.release.tag_name || github.ref_name }}
         run: |
-          gh release create "$TAG" \
-            --title "$TAG" \
-            --notes-file - \
-            build/docx/*.docx \
-            build/docx/SHA256SUMS \
-            build/legal-templates-docx.zip <<'NOTES'
+          set -euo pipefail
+
+          cat > notes.md <<'NOTES'
           Word (.docx) builds of every template in this repository, compiled
           from the markdown sources by `scripts/build_docx.py`.
 
@@ -92,3 +100,16 @@ jobs:
 
           Released under CC0 1.0. Not legal advice.
           NOTES
+
+          if gh release view "$TAG" >/dev/null 2>&1; then
+            echo "Release $TAG exists; uploading assets."
+          else
+            echo "Creating release $TAG."
+            gh release create "$TAG" --title "$TAG" --notes-file notes.md
+          fi
+
+          gh release upload "$TAG" \
+            build/docx/*.docx \
+            build/docx/SHA256SUMS \
+            build/legal-templates-docx.zip \
+            --clobber
