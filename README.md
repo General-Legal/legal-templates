@@ -4,6 +4,20 @@ Attorney-drafted legal templates for startups and technology companies. Created 
 
 These templates are provided in LLM-optimized markdown and original .docx formats. Highlighted text (marked with `<mark>` tags in the markdown files) indicates fields that should be customized for your use.
 
+## Scope and Limitations
+
+**Jurisdiction.** These templates are drafted for U.S. companies. Governing law defaults to Delaware, the offer letter is written for California exempt employees, and the privacy documents are built around U.S. federal and state law. The GDPR-enhanced privacy policy and the global DPA add EU/EEA, UK, and Swiss obligations, but no template in this repository is a substitute for local counsel outside the United States — a Canadian, EU, or UK company will need material changes, not just a search-and-replace of the party names.
+
+**Commercial terms are left blank on purpose.** Fees, liability caps, term lengths, and notice periods appear as `<mark>` fields. A template can tell you which clauses belong in an agreement; it cannot tell you which ones you should have negotiated.
+
+**Templates describe your business, not the reverse.** A privacy policy or DPA copied without edits will describe data flows you do not have and omit the ones you do. Read each document against what your product actually does before you publish or sign it.
+
+**Not legal advice.** These templates are provided as-is under CC0. Using them does not create an attorney-client relationship with General Legal or any of its attorneys. Have a lawyer review anything you intend to sign or publish.
+
+## Feedback and Contributions
+
+Found a typo, a stale citation, or a clause that does not fit? Open an [issue](https://github.com/General-Legal/legal-templates/issues) or a pull request — see [CONTRIBUTING.md](CONTRIBUTING.md). Corrections and new templates are both welcome.
+
 ## Templates
 
 | Template | Description |
