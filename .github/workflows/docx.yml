@@ -1,0 +1,94 @@
+name: Build .docx
+
+# Markdown is the source of truth; the .docx files are compiled from it.
+# Every push and pull request that touches a template rebuilds them and
+# uploads them as a workflow artifact, so a reviewer can download the Word
+# version of a change before merging it. Tagging v* publishes the same
+# build as release assets.
+on:
+  push:
+    branches: [main]
+    tags: ['v*']
+    paths:
+      - 'templates/**/template.md'
+      - 'scripts/build_docx.py'
+      - 'scripts/requirements.txt'
+      - '.github/workflows/docx.yml'
+  pull_request:
+    paths:
+      - 'templates/**/template.md'
+      - 'scripts/build_docx.py'
+      - 'scripts/requirements.txt'
+      - '.github/workflows/docx.yml'
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+          cache: pip
+          cache-dependency-path: scripts/requirements.txt
+
+      - name: Install dependencies
+        run: pip install -r scripts/requirements.txt
+
+      # --check (on by default) fails the build if any <mark> placeholder
+      # did not survive as highlighted text in the .docx.
+      - name: Compile templates
+        run: python3 scripts/build_docx.py --out build/docx --zip
+
+      - name: Checksums
+        working-directory: build/docx
+        run: sha256sum *.docx | tee SHA256SUMS
+
+      - uses: actions/upload-artifact@v4
+        with:
+          name: legal-templates-docx
+          path: |
+            build/docx/
+            build/legal-templates-docx.zip
+          retention-days: 90
+          if-no-files-found: error
+
+  release:
+    needs: build
+    if: startsWith(github.ref, 'refs/tags/v')
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/download-artifact@v4
+        with:
+          name: legal-templates-docx
+          path: build
+
+      - name: Publish release
+        env:
+          GH_TOKEN: ${{ github.token }}
+          TAG: ${{ github.ref_name }}
+        run: |
+          gh release create "$TAG" \
+            --title "$TAG" \
+            --notes-file - \
+            build/docx/*.docx \
+            build/docx/SHA256SUMS \
+            build/legal-templates-docx.zip <<'NOTES'
+          Word (.docx) builds of every template in this repository, compiled
+          from the markdown sources by `scripts/build_docx.py`.
+
+          Download `legal-templates-docx.zip` for all of them, or an
+          individual `.docx` below. Highlighted text marks the fields to
+          customize. Verify downloads against `SHA256SUMS`.
+
+          Released under CC0 1.0. Not legal advice.
+          NOTES
