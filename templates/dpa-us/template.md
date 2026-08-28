@@ -125,7 +125,7 @@ Data Processing Details**
 
 **Address:** [<mark>INSERT</mark>]
 
-**Contact Details for Data Protection:** [<mark>Role</mark>] ‍[<mark>Email</mark>]** 
+**Contact Details for Data Protection:** [<mark>Role</mark>] ‍[<mark>Email</mark>] 
 
 **Provider Activities:** [<mark>Brief Company description</mark>]
 
