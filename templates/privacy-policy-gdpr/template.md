@@ -11,17 +11,15 @@ Please click **here** to view the previous version of our Privacy Policy.
 
 [<mark>Full Company Name</mark>] [and our subsidiaries and affiliates] ("**[**<mark>CompanyName</mark>**]**," "**we**", "**us**" or "**our**") provides a [<mark>DESCRIPTION OF BUSINESS</mark>]. This Privacy Policy describes how [CompanyName] processes personal information that we collect through our digital or online properties or services that link to this Privacy Policy (including as applicable, our website, mobile application, and social media pages) as well as our marketing activities, live events and other activities described in this Privacy Policy (collectively, the "Service").
 
-[<mark>NOTICE TO EUROPEAN USERS: Please see the  section for additional information for individuals located in the European Economic Area or United Kingdom (which we refer to as "Europe", and "European" should be understood accordingly) below.]</mark>
+[<mark>NOTICE TO EUROPEAN USERS: Please see the section for additional information for individuals located in the European Economic Area or United Kingdom (which we refer to as "Europe", and "European" should be understood accordingly) below.]</mark>
 
 You can download a printable copy of this Privacy Policy <mark>here</mark>.
 
 **Index**
 Tracking & Other Technologies
 [Retention]
-transfer
+Transfer
 [State privacy rights notice]
-
-[]
 
 # Personal information we collect
 
@@ -30,9 +28,9 @@ transfer
 1. **Contact data**, such as your first and last name, salutation, email address, billing and mailing addresses, professional title and company name, and phone number.
 2. **Demographic data**, such as your city, state, country of residence, postal code, and age.
 
-**Profile data**,** **such as the username and password that you may set to establish an online account on the Service, date of birth, redemption code, biographical details, photograph or picture, links to your profiles on social networks, interests, preferences, information about your participation in our contests, promotions, or surveys, and any other information that you add to your account profile.
+**Profile data**, such as the username and password that you may set to establish an online account on the Service, date of birth, redemption code, biographical details, photograph or picture, links to your profiles on social networks, interests, preferences, information about your participation in our contests, promotions, or surveys, and any other information that you add to your account profile.
 
-**Communications data **based on our exchanges with you, including when you contact us through the Service, [<mark>communicate with us via chat features,</mark>] social media, or otherwise.
+**Communications data** based on our exchanges with you, including when you contact us through the Service, [<mark>communicate with us via chat features,</mark>] social media, or otherwise.
 
 **Transactional data**, such as information relating to or needed to complete your orders on or through the Service, including order numbers and transaction history.
 
@@ -69,10 +67,10 @@ transfer
 
 ## Automatic data collection. We, our service providers, and our business partners may automatically log information about you, your computer or mobile device, and your interaction over time with the Service, our communications and other online services, such as:
 
-1. **Device data**,** **such as your computer or mobile device's operating system type and version, manufacturer and model, browser type, screen resolution, RAM and disk size, CPU usage, device type (e.g., phone, tablet), IP address, unique identifiers (including identifiers used for advertising purposes), language settings, mobile device carrier, radio/network information (e.g., Wi-Fi, LTE, 3G), and general location information such as city, state or geographic area.
+1. **Device data**, such as your computer or mobile device's operating system type and version, manufacturer and model, browser type, screen resolution, RAM and disk size, CPU usage, device type (e.g., phone, tablet), IP address, unique identifiers (including identifiers used for advertising purposes), language settings, mobile device carrier, radio/network information (e.g., Wi-Fi, LTE, 3G), and general location information such as city, state or geographic area.
 2. **Online activity data**, such as pages or screens you viewed, how long you spent on a page or screen, the website you visited before browsing to the Service, navigation paths between pages or screens, information about your activity on a page or screen, access times and duration of access, and whether you have opened our emails or clicked links within them.
 3. **(Precise geolocation/Location) data** when you authorize (our mobile application/the Service) to access your device's location.
-4. **Communication interaction data **such** **as your interactions with our email, text or other communications (e.g., whether you open and/or forward emails) - we may do this through use of pixel tags (which are also known as clear GIFs), which may be embedded invisibly in our emails.
+4. **Communication interaction data** such as your interactions with our email, text or other communications (e.g., whether you open and/or forward emails) - we may do this through use of pixel tags (which are also known as clear GIFs), which may be embedded invisibly in our emails.
 
 ## For more information concerning our automatic collection of data, please see the Tracking technologies section below.
 
@@ -159,15 +157,15 @@ We may share your personal information with the following parties (or as otherwi
 
 **Affiliates. **Our corporate parent, subsidiaries, and affiliates.
 
-**Service providers.** Third parties** **that provide services on our behalf or help us operate the Service or our business (such as hosting, information technology, customer support, [<mark>AI providers, such as online chat functionality providers and other providers of generative AI technologies such as OpenAI</mark>], email delivery, marketing, consumer research and website analytics).
+**Service providers.** Third parties that provide services on our behalf or help us operate the Service or our business (such as hosting, information technology, customer support, [<mark>AI providers, such as online chat functionality providers and other providers of generative AI technologies such as OpenAI</mark>], email delivery, marketing, consumer research and website analytics).
 
 **Payment processors**. Any payment card information you use to make a purchase on the Service is collected and processed directly by our payment processors, [<mark>such as PayPal. PayPal may use your payment data in accordance with its privacy policy, . You may also sign up to be billed by your mobile communications provider, who may use your payment data in accordance with their privacy policies/such as Stripe. Stripe may use your payment data in accordance with its privacy policy, https://stripe.com/privacy.]</mark>
 
 **Advertising partners. **Third-party advertising companies for the interest-based advertising purposes described above.
 
-**Third parties designated by you. **We may share your personal information with third parties where you have instructed us or provided your consent to do so.** **
+**Third parties designated by you.** We may share your personal information with third parties where you have instructed us or provided your consent to do so.
 
-**Partners. **Third parties** **with whom we partner, including parties with whom we co-sponsor events or promotions, with whom we jointly offer products or services, or whose products or services may be of interest to you.
+**Partners.** Third parties with whom we partner, including parties with whom we co-sponsor events or promotions, with whom we jointly offer products or services, or whose products or services may be of interest to you.
 
 **Linked third-party services**. If you log into the Service with, or otherwise link your Service account to, a social media or other third-party service, we may share your personal information with that third-party service. The third party's use of the shared information will be governed by its privacy policy and the settings associated with your account with the third-party service.
 
@@ -181,14 +179,14 @@ We may share your personal information with the following parties (or as otherwi
 
 # Your choices
 
-<mark>In this section, we describe the rights and choices available to all users. Users who are located in certain U.S. statesand Europe can find additional information about their rights below</mark>.
+<mark>In this section, we describe the rights and choices available to all users. Users who are located in certain U.S. states and Europe can find additional information about their rights below</mark>.
 
 ## Access or update your information. If you have registered for an account with us through the Service, you may review and update certain account information by logging into the account.
 
 ## Opt-out of communications. You may opt out of marketing-related emails by following the opt-out or unsubscribe instructions at the bottom of the email, or by contacting us. Please note that if you choose to opt out of marketing-related emails, you may continue to receive service-related and other non-marketing emails.
 
-**[**<mark>Training data. As set out in the How we use your personal information section, we may use your personal information, provided it is aggregated, de-identified and/or anonymized, to train our AI models and for other machine learning purposes. This helps improve the Service. If you would like to opt-out of our processing of your personal information for this purpose, please [INSERT OPT-OUT INSTRUCTIONS].</mark>]
-**Cookies and other technologies**. For information about cookies and other technologies employed by the Service and how to control them, see our Cookie Notice. [
+[<mark>**Training data.** As set out in the How we use your personal information section, we may use your personal information, provided it is aggregated, de-identified and/or anonymized, to train our AI models and for other machine learning purposes. This helps improve the Service. If you would like to opt-out of our processing of your personal information for this purpose, please [INSERT OPT-OUT INSTRUCTIONS].</mark>]
+**Cookies and other technologies**. For information about cookies and other technologies employed by the Service and how to control them, see our Cookie Notice. 
 
 ## Blocking images/clear gifs: Most browsers and devices allow you to configure your device to prevent images from loading. To do this, follow the instructions in your particular browser or device settings.
 
@@ -202,7 +200,7 @@ We may share your personal information with the following parties (or as otherwi
 
 ## Linked third-party platforms. If you choose to connect to the Service through your social media account or other third-party platform, you may be able to use your settings in your account with that platform to limit the information we receive from it. If you revoke our ability to access information from a third-party platform, that choice will not apply to information that we have already received from that third party.
 
-**[**<mark>Delete your content or close your account. You can choose to delete certain content through your account. If you wish to request to close your account, please .</mark>]
+[<mark>**Delete your content or close your account.** You can choose to delete certain content through your account. If you wish to request to close your account, please .</mark>]
 
 # Other sites and services
 
@@ -236,7 +234,7 @@ If you have questions about our practices or if you would like to exercise any p
 
 Except as otherwise provided, this section applies to residents of U.S. states to the extent they have privacy laws applicable to us that grant their residents the rights described below (collectively the "**State Privacy Laws**").
 
-This section describes how we collect, use, and share Personal Information of residents of these states and the rights these users may have with respect to their Personal Information. Please note that not all rights listed below may be afforded to all users and that if you are not a resident of one of these states listed above, you may not be able to exercise these rights. In addition, **we may not be able to process your request if you do not provide us with sufficient detail to allow us to confirm your identity or understand and respond to it. [**<mark>INSERT DESCRIPTION OF BUSINESS'S AUTHENTICATION PROCESS</mark>**].**
+This section describes how we collect, use, and share Personal Information of residents of these states and the rights these users may have with respect to their Personal Information. Please note that not all rights listed below may be afforded to all users and that if you are not a resident of one of these states listed above, you may not be able to exercise these rights. In addition, **we may not be able to process your request if you do not provide us with sufficient detail to allow us to confirm your identity or understand and respond to it. [<mark>INSERT DESCRIPTION OF BUSINESS'S AUTHENTICATION PROCESS</mark>].**
 
 For purposes of this section, the term "**Personal Information**" has the meaning given to "personal data", "personal information" or other similar terms and "**Sensitive Personal Information**" has the meaning given to "sensitive personal information," "sensitive data", or other similar terms in the State Privacy Laws, except that in neither case does such term include information exempted from the scope of the State Privacy Laws. In some cases, we may provide a different privacy notice to certain categories of residents of these states, [<mark>such as job applicants</mark>], in which case that notice will apply instead of this section.
 
@@ -307,7 +305,7 @@ Under some State Privacy Laws, you may enable an authorized agent to make a requ
 **Additional information for California residents.  **
 
 **Shine the light law.**  Under California's Shine the Light law (California Civil Code Section 1798.83), California residents may ask companies with whom they have formed a business relationship primarily for personal, family or household purposes to provide the names of third parties to which they have disclosed certain personal information (as defined under the Shine the Light law) during the preceding calendar year for their own direct marketing purposes, and the categories of personal information disclosed. You may send us requests for this information to [<mark>EMAIL</mark>]. In your request, you must include the statement "Shine the Light Request," and provide your first and last name and mailing address and certify that you are a California resident. We reserve the right to require additional information to confirm your identity and California residency. Please note that we will not accept requests via telephone, mail, or facsimile, and we are not responsible for notices that are not labeled or sent properly, or that do not have complete information.
-**[Additional information for Nevada residents.** Nevada residents have the right to opt-out of the sale of certain personal information for monetary consideration. While we do not currently engage in such sales, if you are a Nevada resident and would like to make a request to opt out of any potential future sales, please email [<mark>EMAIL</mark>].]
+[**Additional information for Nevada residents.** Nevada residents have the right to opt-out of the sale of certain personal information for monetary consideration. While we do not currently engage in such sales, if you are a Nevada resident and would like to make a request to opt out of any potential future sales, please email [<mark>EMAIL</mark>].]
 
 [**Additional information for Texas residents.  **We may "sell" your sensitive personal data, as defined by the Texas Data Privacy and Security Act, by [<mark>DESCRIBE, e.g., using services that help deliver interest-based ads to you as described above</mark>].]
 
@@ -319,9 +317,9 @@ Under some State Privacy Laws, you may enable an authorized agent to make a requ
 
 <mark>Where this Notice to European users applies. The information provided in this "Notice to European users" section applies only to individuals in the United Kingdom and the European Economic Area (i.e., "Europe" as defined at the top of this Privacy Policy).</mark>
 
-<mark>Personal information. References to "personal information" in this Privacy Policy should be understood to include a reference to "personal data" (as defined in the GDPR) - i.e., information about individuals from they are either directly identified or can be identified.   </mark>
+<mark>Personal information. References to "personal information" in this Privacy Policy should be understood to include a reference to "personal data" (as defined in the GDPR) - i.e., information about individuals from which they are either directly identified or can be identified.</mark>
 
-## <mark>Controller. [CompanyName] is the controller in respect of the processing of your personal information covered by this Privacy Policy for purposes of European data protection legislation (i.e., the  and the so-called ' (as and where applicable, the "GDPR")). See the 'How to contact us' section above for our contact details.</mark>
+## <mark>Controller. [CompanyName] is the controller in respect of the processing of your personal information covered by this Privacy Policy for purposes of European data protection legislation (i.e., the and the so-called ' (as and where applicable, the "GDPR")). See the 'How to contact us' section above for our contact details.</mark>
 
 <mark>Our GDPR Representatives. We have appointed the following representatives in Europe as required by the GDPR - you can also contact them directly should you wish:</mark>
 
@@ -330,9 +328,9 @@ Under some State Privacy Laws, you may enable an authorized agent to make a requ
 
 <mark>[Our Data Protection Officer. We have appointed a "Data Protection Officer", this is a person who is responsible for independently overseeing and advising us in relation to our compliance with the GDPR (including compliance with the practices described in this Privacy Policy). If you want to contact our Data Protection Officer directly, you can email: [insert]]</mark>
 
-<mark>Our legal bases for processing </mark>
+<mark>Our legal bases for processing</mark>
 
-## <mark>In respect of each of the purposes for which we use your personal information, the GDPR requires us to ensure that we have a "legal basis" for that use. </mark>
+## <mark>In respect of each of the purposes for which we use your personal information, the GDPR requires us to ensure that we have a "legal basis" for that use.</mark>
 
 ## <mark>Our legal bases for processing your personal information described in this Privacy Policy are listed below.</mark>
 
@@ -342,7 +340,7 @@ Under some State Privacy Laws, you may enable an authorized agent to make a requ
 
 <mark>Where we need to comply with a legal or regulatory obligation ("Compliance with Law").</mark>
 
-<mark>Where we have your specific consent to carry out the processing for the Purpose in question ("Consent").  </mark>
+<mark>Where we have your specific consent to carry out the processing for the Purpose in question ("Consent").</mark>
 
 <mark>We have set out below, in a table format, the legal bases we rely on in respect of the relevant Purposes for which we use your personal information - for more information on these Purposes and the data types involved, see 'How we use your personal information'</mark>
 
@@ -351,7 +349,7 @@ Under some State Privacy Laws, you may enable an authorized agent to make a requ
 | Service delivery and operations | Contact data Demographic data Profile data Communications data Transactional data User-generated content and input data Relationship data Payment data Data from Third Party Services Device data | Contractual Necessity |
 | Security | Contact data Device data Online activity data (Precise geolocation/Location) data | Compliance with Law Legitimate Interests. We have a legitimate interest in ensuring the ongoing security and proper operation of our Service and associated IT services, systems, and networks. |
 | Service improvement and analytics | Contact data Demographic data Profile data Device data Online activity data (Precise geolocation/Location) data [Communication interaction data] | Legitimate Interests. We have a legitimate interest in providing you with a good service, which is personalised to you and that remembers your selections and preferences. Consent, in respect of any optional cookies used for this purpose. |
-| Direct marketing | Contact data Demographic data,  Profile data   Communications data   Transactional data  Marketing data  [Communication interaction data] | Legitimate Interests. We have a legitimate interest in promoting our operations and goals as an organisation and sending marketing communications for that purpose. Consent, in circumstances or in jurisdictions where consent is required under applicable data protection laws to the sending of any given marketing communications. |
+| Direct marketing | Contact data Demographic data,  Profile data Communications data Transactional data Marketing data [Communication interaction data] | Legitimate Interests. We have a legitimate interest in promoting our operations and goals as an organisation and sending marketing communications for that purpose. Consent, in circumstances or in jurisdictions where consent is required under applicable data protection laws to the sending of any given marketing communications. |
 | Interest-based advertising | [Demographic data] Device data Online activity data (Precise geolocation/Location) data | Consent |
 | Events, promotions and contests | Promotion data Contact data Demographic data Profile data Communications data | Contractual Necessity to administer the promotions and contests in accordance with the terms or rules thereof (including communicating with you as and where necessary) In respect of promoting these promotions and contests:  Legitimate Interests - we have a legitimate interest in promoting these promotions and contests, including associated publicising of our business and operations.  Consent - in circumstances or in jurisdictions where consent is required under applicable data protection laws to the sending of any given promotional communications. |
 | Compliance and protection | Contact data Demographic data | Compliance with Law. Legitimate Interests. Where Compliance with Law is not applicable, we and any relevant third parties have a legitimate interest in participating in, supporting, and following legal process and requests, including through co-operation with authorities. We and any relevant third parties may also have a legitimate interest of ensuring the protection, maintenance, and enforcement of our and their rights, property, and/or safety. |
