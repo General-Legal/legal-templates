@@ -117,9 +117,7 @@ By signing below, the parties' duly authorized representatives agree to be legal
 ---
 
 **Annex 1
-**
-
-**Data Processing Details**
+Data Processing Details**
 
 **PROVIDER DETAILS**
 
@@ -127,11 +125,9 @@ By signing below, the parties' duly authorized representatives agree to be legal
 
 **Address: **[<mark>INSERT</mark>]
 
-**Contact Details for Data Protection: **[<mark>Role</mark>] ‍[<mark>Email</mark>]** **
+**Contact Details for Data Protection: **[<mark>Role</mark>] ‍[<mark>Email</mark>]** 
 
 **Provider Activities: **[<mark>Brief Company description</mark>]
-
-**‍**
 
 **CUSTOMER DETAILS**
 
@@ -167,9 +163,8 @@ By signing below, the parties' duly authorized representatives agree to be legal
 
 **Duration of Processing / Retention Period: **For the period determined in accordance with the Agreement and DPA, including Section 9 of the DPA.
 
-**Transfers to (sub)processors: **Transfers to Subprocessors are as, and for the purposes, described from time to time in the <mark>Subprocessor List (Annex 5) / Subprocessor Site</mark>.
+**Transfers to (sub)processors: **Transfers to Subprocessors are as, and for the purposes, described from time to time in the <mark>Subprocessor List (Annex 4) / Subprocessor Site</mark>.
 **Annex 2
-
 State Privacy Laws Annex**
 
 For purposes of this Annex 2, the terms "business," "controller," "processor," "commercial purpose," "sell," "share," "service provider" and "contractor" shall have the respective meanings given thereto in the applicable State Privacy Laws, and "personal information" shall mean Personal Data to the extent it constitutes "personal information" or "personal data" (or a similar term) governed by the State Privacy Laws.
