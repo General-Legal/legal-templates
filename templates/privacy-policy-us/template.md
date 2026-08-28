@@ -153,13 +153,13 @@ When we no longer require the personal information, we have collected about you,
 
 We may share your personal information with the following parties (or as otherwise described in this Privacy Policy, in other applicable notices, or at the time of collection).
 
-**Affiliates. **Our corporate parent, subsidiaries, and affiliates.
+**Affiliates.** Our corporate parent, subsidiaries, and affiliates.
 
 **Service providers.** Third parties that provide services on our behalf or help us operate the Service or our business (such as hosting, information technology, customer support, [<mark>AI providers, such as online chat functionality providers and other providers of generative AI technologies such as OpenAI</mark>], email delivery, marketing, consumer research and website analytics).
 
 **Payment processors**. Any payment card information you use to make a purchase on the Service is collected and processed directly by our payment processors, [<mark>such as PayPal. PayPal may use your payment data in accordance with its privacy policy, . You may also sign up to be billed by your mobile communications provider, who may use your payment data in accordance with their privacy policies/such as Stripe. Stripe may use your payment data in accordance with its privacy policy, https://stripe.com/privacy.]</mark>
 
-**Advertising partners. **Third-party advertising companies for the interest-based advertising purposes described above.
+**Advertising partners.** Third-party advertising companies for the interest-based advertising purposes described above.
 
 **Third parties designated by you.** We may share your personal information with third parties where you have instructed us or provided your consent to do so.
 
@@ -169,11 +169,11 @@ We may share your personal information with the following parties (or as otherwi
 
 **Professional advisors.** Professional advisors, such as lawyers, auditors, bankers and insurers, in the course of the professional services that they render to us.
 
-**Authorities and others. **Law enforcement, government authorities, and private parties, as we believe in good faith to be necessary or appropriate for the Compliance and protection purposes described above.
+**Authorities and others.** Law enforcement, government authorities, and private parties, as we believe in good faith to be necessary or appropriate for the Compliance and protection purposes described above.
 
 **Business transferees**. We may disclose personal information in the context of actual or prospective business transactions (*e.g.,* investments in [<mark>CompanyName</mark>], financing of [<mark>CompanyName</mark>], public stock offerings, or the sale, transfer or merger of all or part of our business, assets or shares). For example, we may need to share certain personal information with prospective counterparties and their advisers. We may also disclose your personal information to an acquirer, successor, or assignee of [<mark>CompanyName</mark>] as part of any merger, acquisition, sale of assets, or similar transaction, and/or in the event of an insolvency, bankruptcy, or receivership in which personal information is transferred to one or more third parties as one of our business assets.
 
-**Other users and the public. **Your profile and other user-generated content and input data (<mark>except for messages</mark>) [<mark>are/may be</mark>] visible to other users of the Service and the public. For example, other users of the Service or the public may have access to your information if you chose to make your profile or other personal information available to them through the Service, such as when you provide comments, reviews, survey responses, or share other content.  This information can be seen, collected and used by others, including being cached, copied, screen captured or stored elsewhere by others (e.g., search engines), and we are not responsible for any such use of this information.
+**Other users and the public.** Your profile and other user-generated content and input data (<mark>except for messages</mark>) [<mark>are/may be</mark>] visible to other users of the Service and the public. For example, other users of the Service or the public may have access to your information if you chose to make your profile or other personal information available to them through the Service, such as when you provide comments, reviews, survey responses, or share other content.  This information can be seen, collected and used by others, including being cached, copied, screen captured or stored elsewhere by others (e.g., search engines), and we are not responsible for any such use of this information.
 
 # Your choices
 
