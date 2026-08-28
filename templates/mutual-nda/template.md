@@ -33,7 +33,7 @@ For purposes of clauses (a) and (b) of this Section 3, no combination of element
 18. All references in this Agreement to the singular will include the plural where applicable. Ambiguities and uncertainties in this Agreement, if any, will not be interpreted against either party, irrespective of which party may be deemed to have caused the ambiguity or uncertainty to exist. This Agreement has been prepared in the English language, and the English language will control its interpretation. In addition, all notices required or permitted to be given hereunder, and all written, electronic, oral or other communications between the parties regarding this Agreement, will be in the English language.
 19. This Agreement may be executed in two or more counterparts, each of which will be deemed an original, but all of which together will constitute one and the same instrument. Counterparts may be delivered via facsimile, electronic mail (including pdf or any electronic signature complying with the U.S. federal ESIGN Act of 2000, Uniform Electronic Transactions Act or other applicable law) or other transmission method and any counterpart so delivered will be deemed to have been duly and validly delivered and be valid and effective for all purposes.
 20. ***[Remainder of page intentionally left blank]***
-21. **	**The parties have executed this Non-Disclosure Agreement as of the Effective Date.
+21. **The parties have executed this Non-Disclosure Agreement as of the Effective Date.**
 
 ---
 **Signature Block**
