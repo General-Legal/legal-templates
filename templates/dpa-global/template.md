@@ -212,7 +212,7 @@ Data Processing Details**
 
 2.2. Except to the extent prohibited by applicable law, Customer will be fully responsible for all time spent by Provider (at Provider's then-current professional services rates) in Provider's provision of any cooperation and assistance provided to Customer under Paragraph 2.1, and shall on demand reimburse Provider for any such costs incurred by Provider.
 
-**3. RESTRICTED TRANSFERS*‍*
+**3.RESTRICTED TRANSFERS**
 
 *EU Restricted Transfers*
 
