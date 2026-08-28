@@ -164,6 +164,7 @@ Data Processing Details**
 **Duration of Processing / Retention Period: **For the period determined in accordance with the Agreement and DPA, including Section 9 of the DPA.
 
 **Transfers to (sub)processors: **Transfers to Subprocessors are as, and for the purposes, described from time to time in the <mark>Subprocessor List (Annex 4) / Subprocessor Site</mark>.
+
 **Annex 2
 State Privacy Laws Annex**
 
@@ -178,6 +179,7 @@ Giving Customer notice of Subprocessor engagements in accordance with Section 7 
 Customer may conduct audits, in accordance with Section 8 of the DPA, to help ensure that Provider's use of personal information is consistent with Provider's obligations under the State Privacy Laws.
 
 The Parties acknowledge that Provider's retention, use and disclosure of personal information authorized by Customer's instructions documented in the Agreement and this DPA are integral to Provider's provision of the Services and the business relationship between the Parties.
+
 **Annex 3
 Security Measures**
 
@@ -206,6 +208,7 @@ Network security controls designed to protect systems from intrusion and limit t
 Vulnerability assessment, patch management and threat protection technologies, and scheduled monitoring procedures designed to identify, assess, mitigate and protect against identified security threats, viruses and other malicious code.
 
 Business resiliency/continuity and disaster recovery procedures designed to maintain service and/or recovery from foreseeable emergencies or disasters.
+
 **Annex 4
 List of Subprocessors**
 
