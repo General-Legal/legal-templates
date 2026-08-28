@@ -45,13 +45,13 @@ Transfer
 **Payment data** needed to complete transactions, including payment card information or bank account number.
 
 **Promotion data**, including information you share when you enter a competition, promotion or complete a survey. Please note that if you participate in a sweepstakes, contest or giveaway through the Service, we may ask you for your Contact Data to notify you if you win or not, to verify your identity, determine your eligibility, and/or to send you prizes. In some situations, we may need additional information as a part of the entry process, such as a prize selection choice. These sweepstakes and contests are voluntary. We recommend that you read the rules and other relevant information for each sweepstakes and contest that you enter.
-1. **Other data **not specifically listed here, which we will use as described in this Privacy Policy or as otherwise disclosed at the time of collection.
+1. **Other data** not specifically listed here, which we will use as described in this Privacy Policy or as otherwise disclosed at the time of collection.
 
 ## Third-party sources. We may combine personal information we receive from you with personal information falling within one of the categories identified above that we obtain from other sources, such as:
 
 ## Public sources, such as government agencies, public records, social media platforms, and other publicly available sources.
 
-**Data providers, **such as information services and data licensors.
+**Data providers,** such as information services and data licensors.
 
 **Partners**, such marketing partners and event co-sponsors.
 
@@ -72,7 +72,7 @@ Transfer
 
 ## For more information concerning our automatic collection of data, please see the Tracking technologies section below.
 
-**Data about others. **We may offer features that help users invite their friends or contacts to use the Service, and we may collect contact details about these invitees so we can deliver their invitations. Please do not refer someone to us or share their contact details with us unless you have their permission to do so.
+**Data about others.** We may offer features that help users invite their friends or contacts to use the Service, and we may collect contact details about these invitees so we can deliver their invitations. Please do not refer someone to us or share their contact details with us unless you have their permission to do so.
 
 # Tracking & Other Technologies
 
