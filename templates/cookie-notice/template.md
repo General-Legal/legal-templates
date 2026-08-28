@@ -1,6 +1,6 @@
 **Cookie Notice**
 
-This Cookie Notice explains how [<mark>CompanyName</mark>] ("**[**<mark>CompanyName</mark>**]**", "**we**", "**us**" or "**our**") uses cookies and similar technologies in connection with the [<mark>website</mark>] website and any other website that we own or control and which posts or links to this Cookie Notice (collectively, the "**Sites**")[<mark>; and our mobile app ("App")</mark>].
+This Cookie Notice explains how [<mark>CompanyName</mark>] ("**[<mark>CompanyName</mark>]**", "**we**", "**us**" or "**our**") uses cookies and similar technologies in connection with the [<mark>website</mark>] website and any other website that we own or control and which posts or links to this Cookie Notice (collectively, the "**Sites**")[<mark>; and our mobile app (App)</mark>].
 
 **What are cookies?**
 
@@ -14,7 +14,7 @@ We use two broad categories of cookies: (1) first party cookies, served directly
 
 On the Sites, we use cookies and other tracking technologies in the following categories described in the table below.
 
-| Type | Description | Who serves the cookies  (link to privacy policy/site) | How to control them |
+| Type | Description | Who serves the cookies (link to privacy policy/site) | How to control them |
 | --- | --- | --- | --- |
 | Advertising | These cookies are used by advertising companies to collect information about how you use our Sites and other websites over time. These companies use this information to show you ads they believe will be relevant to you within our services and elsewhere, and to measure how the ads perform. | [ADD] | [ADD] |
 | Analytics | These cookies help us understand how our services are performing and being used. These cookies may work with web beacons included in emails we send to track which emails are opened and which links are clicked by recipients. | [ADD] | [ADD] |
@@ -24,7 +24,7 @@ On the Sites, we use cookies and other tracking technologies in the following ca
 
 **Other technologies**
 
-In addition to cookies, our Sites may use other technologies, such as Flash technology to pixel tags to collect information automatically.
+In addition to cookies, our Sites may use other technologies, such as Flash technology and pixel tags to collect information automatically.
 
 *Browser Web Storage*
 
@@ -44,7 +44,7 @@ We may use third-party software development kits ("SDKs") in our mobile applicat
 
 *Session-replay technologies*
 
-We may use products and services** **provided by [<mark>FullStory</mark>] that employ software code to record users' interactions with the Services in a manner that allows us to watch DVR-like replays of those user sessions. The replays include users' clicks, mobile app touches, mouse movements, scrolls [and keystrokes/key touches]* during those sessions. These replays help us diagnose usability problems and identify areas for improvement. [<mark>You can learn more about FullStory at out of session recording by FullStory at .]</mark>
+We may use products and services provided by [<mark>FullStory</mark>] that employ software code to record users' interactions with the Services in a manner that allows us to watch DVR-like replays of those user sessions. The replays include users' clicks, mobile app touches, mouse movements, scrolls [and keystrokes/key touches] during those sessions. These replays help us diagnose usability problems and identify areas for improvement. [<mark>You can learn more about FullStory and opt out of session recording by FullStory at .]</mark>
 
 # Your choices
 
@@ -54,8 +54,8 @@ Your options for controlling what information cookies and similar technologies c
     2. <mark>When we deploy other cookies, you have the possibility to either accept or reject all cookies, or to allow the deployment of the categories of cookies you prefer, by clicking on the appropriate button (i.e. "accept all", "reject all" or "manage my settings").</mark>]
 2. **Blocking cookies in your browser.** Most browsers let you remove or reject cookies. To do this, follow the instructions in your browser settings. Many browsers accept cookies by default until you change your settings. Please note that if you set your browser to disable cookies, the Sites may not work properly. For more information about cookies, including how to see what cookies have been set on your device and how to manage and delete them, visit . If you do not accept our cookies, you may experience some inconvenience in your use of our Sites. For example, we may not be able to recognize your computer or mobile device and you may need to log in every time you visit our Sites.
 3. **Blocking images/clear gifs**: Most browsers and devices allow you to configure your device to prevent images from loading. To do this, follow the instructions in your particular browser or device settings.
-4. **Third-party opt-out option. **You can opt out of interest-based advertising through some of the third parties listed in the chart above by using the corresponding third-party opt-out tool provided in the chart.
-5. **Industry association opt-outs**.   You may opt out of receiving interest-based advertising on websites through members of the Network Advertising Initiative by clicking  or the Digital Advertising Alliance by clicking . You may opt out of receiving targeted advertising in mobile apps through participating members of the Digital Advertising Alliance by installing the AppChoices mobile app, available , and selecting the user's choices. Please note that we also may work with companies that offer their own opt-out mechanisms and may not participate in the opt-out mechanisms linked above.
+4. **Third-party opt-out option**. You can opt out of interest-based advertising through some of the third parties listed in the chart above by using the corresponding third-party opt-out tool provided in the chart.
+5. **Industry association opt-outs**. You may opt out of receiving interest-based advertising on websites through members of the Network Advertising Initiative by clicking or the Digital Advertising Alliance by clicking . You may opt out of receiving targeted advertising in mobile apps through participating members of the Digital Advertising Alliance by installing the AppChoices mobile app, available , and selecting the user's choices. Please note that we also may work with companies that offer their own opt-out mechanisms and may not participate in the opt-out mechanisms linked above.
 6. **Blocking advertising ID use in your mobile settings**. Your mobile device settings may provide functionality to limit use of the advertising ID associated with your mobile device for interest-based advertising purposes.
 
 For more information about cookies, including how to see what cookies have been set on your computer or mobile device and how to manage and delete them, visit . If you do not accept our cookies, you may experience some inconvenience in your use of our Sites. For example, we may not be able to recognize your computer or mobile device and you may need to log in every time you visit our Sites.
