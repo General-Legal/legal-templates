@@ -232,7 +232,7 @@ This Order Form (the "**Order Form**") is entered into by and between the compan
 Upon signature by both parties, this Order Form shall become legally binding. Subscriptions are non-cancelable before the end of the Initial Order Term or Renewal Order Term.
 
 [*The remainder of this page is intentionally left blank; signature page follows.*]
-**Customer: <mark>________________________________</mark> Company: <mark>_____________________________</mark>**
+**Customer: <mark>________________________________</mark>** **Company: <mark>_____________________________</mark>**
 
 **By:			 By:**
 
