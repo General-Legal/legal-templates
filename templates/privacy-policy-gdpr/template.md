@@ -264,7 +264,7 @@ The categories of third parties to whom the Personal Information was sold or dis
 
 **Opt-out.**
 
-**Opt-out of certain processing for targeted advertising purposes.** <mark>[We may process Personal Information for targeted advertising purposes. You can opt-out of certain processing of personal information for targeted advertising purposes.] / [We do not process your personal information for targeted advertising purposes].</mark>** **
+**Opt-out of certain processing for targeted advertising purposes.** <mark>[We may process Personal Information for targeted advertising purposes. You can opt-out of certain processing of personal information for targeted advertising purposes.] / [We do not process your personal information for targeted advertising purposes].</mark>
 
 **Opt-out of or appeal profiling/automated decision making.** <mark>[We may use your Personal Information to engage in profiling or to perform automated decision-making that [INSERT DESCRIPTION]. You can opt-out of such automated processing or profiling.] / [We do not use your Personal Information to engage in profiling or to perform automated decision-making that results in significant financial impacts, significant impacts on housing, education, employment, health care, or criminal justice, or similarly significant impacts.]</mark>
 
