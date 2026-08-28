@@ -234,7 +234,7 @@ This section describes how we collect, use, and share Personal Information of re
 
 For purposes of this section, the term "**Personal Information**" has the meaning given to "personal data", "personal information" or other similar terms and "**Sensitive Personal Information**" has the meaning given to "sensitive personal information," "sensitive data", or other similar terms in the State Privacy Laws, except that in neither case does such term include information exempted from the scope of the State Privacy Laws. In some cases, we may provide a different privacy notice to certain categories of residents of these states, [<mark>such as job applicants</mark>], in which case that notice will apply instead of this section.
 
-**Your privacy rights. **The State Privacy Laws may provide residents with some or all of the rights listed below. However, these rights are not absolute and some State Privacy Laws do not provide these rights to their residents.  Therefore, we may decline your request in certain cases as permitted by law.
+**Your privacy rights.** The State Privacy Laws may provide residents with some or all of the rights listed below. However, these rights are not absolute and some State Privacy Laws do not provide these rights to their residents.  Therefore, we may decline your request in certain cases as permitted by law.
 
 **Information.** You can request the following information about how we have collected and used your Personal Information:
 
@@ -252,17 +252,17 @@ The categories of third parties to whom the Personal Information was sold or dis
 
 **Access**. You can request a copy of the Personal Information that we have collected about you.
 
-**Appeal. **You can appeal our denial of any request validly submitted.
+**Appeal.** You can appeal our denial of any request validly submitted.
 
-**Correction. **You can ask us to correct inaccurate Personal Information that we have collected about you.
+**Correction.** You can ask us to correct inaccurate Personal Information that we have collected about you.
 
-**Deletion. **You can ask us to delete the Personal Information that we have collected from you.
+**Deletion.** You can ask us to delete the Personal Information that we have collected from you.
 
 **Opt-out.**
 
-**Opt-out of certain processing for targeted advertising purposes. **<mark>[We may process Personal Information for targeted advertising purposes. You can opt-out of certain processing of personal information for targeted advertising purposes.] / [We do not process your personal information for targeted advertising purposes].</mark>** **
+**Opt-out of certain processing for targeted advertising purposes.** <mark>[We may process Personal Information for targeted advertising purposes. You can opt-out of certain processing of personal information for targeted advertising purposes.] / [We do not process your personal information for targeted advertising purposes].</mark>
 
-**Opt-out of or appeal profiling/automated decision making. **<mark>[We may use your Personal Information to engage in profiling or to perform automated decision-making that [INSERT DESCRIPTION]. You can opt-out of such automated processing or profiling.] / [We do not use your Personal Information to engage in profiling or to perform automated decision-making that results in significant financial impacts, significant impacts on housing, education, employment, health care, or criminal justice, or similarly significant impacts.]</mark>
+**Opt-out of or appeal profiling/automated decision making.** <mark>[We may use your Personal Information to engage in profiling or to perform automated decision-making that [INSERT DESCRIPTION]. You can opt-out of such automated processing or profiling.] / [We do not use your Personal Information to engage in profiling or to perform automated decision-making that results in significant financial impacts, significant impacts on housing, education, employment, health care, or criminal justice, or similarly significant impacts.]</mark>
 
 **Opt-out of other sales of personal data.** <mark>[You can opt-out of other sales of your Personal Information.]/[We do not sell your Personal Information within the meaning of State Privacy Laws.]</mark>
 
@@ -272,7 +272,7 @@ The categories of third parties to whom the Personal Information was sold or dis
 
 **Nondiscrimination.** You are entitled to exercise the rights described above free from discrimination as prohibited by the State Privacy Laws.
 
-**Exercising your right to opt-out of the "sale" or "sharing" of your Personal Information.   **While we do not sell personal information for money, like many companies, we use services that help deliver interest-based ads to you as described above. The State Privacy Laws may classify our use of some of these services as "selling" or "sharing" your Personal Information with the advertising partners that provide the services. ** **You can submit requests to opt-out of tracking for targeted advertising purposes or other sales of Personal Information here: [<mark>LINK</mark>], via email to [<mark>EMAIL</mark>] or via phone by calling [<mark>NUMBER</mark>],** **or by broadcasting the Global Privacy Control ("GPC") signal. We honor GPC signals as valid opt-out requests for the sale or sharing of Personal Information, as required by applicable law. When we detect a GPC signal from your browser, we will treat it as a request to opt out of the sale or sharing of your Personal Information. For more information about GPC, visit . [<mark>INSERT ADDITIONAL RELEVANT OPT-OUT PREFERENCE SIGNAL DETAILS</mark>].
+**Exercising your right to opt-out of the "sale" or "sharing" of your Personal Information.** While we do not sell personal information for money, like many companies, we use services that help deliver interest-based ads to you as described above. The State Privacy Laws may classify our use of some of these services as "selling" or "sharing" your Personal Information with the advertising partners that provide the services. ** **You can submit requests to opt-out of tracking for targeted advertising purposes or other sales of Personal Information here: [<mark>LINK</mark>], via email to [<mark>EMAIL</mark>] or via phone by calling [<mark>NUMBER</mark>],** **or by broadcasting the Global Privacy Control ("GPC") signal. We honor GPC signals as valid opt-out requests for the sale or sharing of Personal Information, as required by applicable law. When we detect a GPC signal from your browser, we will treat it as a request to opt out of the sale or sharing of your Personal Information. For more information about GPC, visit . [<mark>INSERT ADDITIONAL RELEVANT OPT-OUT PREFERENCE SIGNAL DETAILS</mark>].
 
 **Exercising other state privacy rights.** You may submit requests to exercise any of the other state privacy rights listed above at [link to webform], calling us toll free at [1-XXX-XXX-XXXX], or via email to [email for data requests].
 
@@ -288,7 +288,7 @@ Under some State Privacy Laws, you may enable an authorized agent to make a requ
 
 **Deidentification**. We do not attempt to reidentify deidentified information derived from personal information, except for the purpose of testing whether our deidentification processes comply with applicable law.
 
-**Personal information that we collect, use and disclose. **We have summarized the Personal Information we collect, the purposes for which we collect it and the third parties to whom we may disclose it by reference below to both the categories defined in the ["Personal information we collect"] section of this Privacy Policy above and the categories of Personal Information specified in the CCPA (Cal. Civ. Code §1798.140). This chart describes our practices currently and during the 12 months preceding the effective date of this Privacy Policy. Information you voluntarily provide to us, such as in free-form webforms, may contain other categories of personal information not described below.
+**Personal information that we collect, use and disclose.** We have summarized the Personal Information we collect, the purposes for which we collect it and the third parties to whom we may disclose it by reference below to both the categories defined in the ["Personal information we collect"] section of this Privacy Policy above and the categories of Personal Information specified in the CCPA (Cal. Civ. Code §1798.140). This chart describes our practices currently and during the 12 months preceding the effective date of this Privacy Policy. Information you voluntarily provide to us, such as in free-form webforms, may contain other categories of personal information not described below.
 
 | Personal Information ("PI") we collect | CCPA statutory category | Purposes | Categories of third parties to whom we "disclose" PI for a business purpose | Categories of third parties to whom we "sell" or "share" PI |
 | --- | --- | --- | --- | --- |
@@ -298,7 +298,7 @@ Under some State Privacy Laws, you may enable an authorized agent to make a requ
 | [INSERT] | [INSERT] | [INSERT] | [INSERT] | [INSERT] |
 | [INSERT] | [INSERT] | [INSERT] | [INSERT] | [INSERT] |
 
-**Additional information for California residents.  **
+**Additional information for California residents.**
 
 **Shine the light law.**  Under California's Shine the Light law (California Civil Code Section 1798.83), California residents may ask companies with whom they have formed a business relationship primarily for personal, family or household purposes to provide the names of third parties to which they have disclosed certain personal information (as defined under the Shine the Light law) during the preceding calendar year for their own direct marketing purposes, and the categories of personal information disclosed. You may send us requests for this information to [<mark>EMAIL</mark>]. In your request, you must include the statement "Shine the Light Request," and provide your first and last name and mailing address and certify that you are a California resident. We reserve the right to require additional information to confirm your identity and California residency. Please note that we will not accept requests via telephone, mail, or facsimile, and we are not responsible for notices that are not labeled or sent properly, or that do not have complete information.
 [**Additional information for Nevada residents.** Nevada residents have the right to opt-out of the sale of certain personal information for monetary consideration. While we do not currently engage in such sales, if you are a Nevada resident and would like to make a request to opt out of any potential future sales, please email [<mark>EMAIL</mark>].]
