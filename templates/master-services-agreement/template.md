@@ -31,7 +31,7 @@ In consideration of the mutual promises contained herein, the parties here by ag
 
 **"Intellectual Property Rights"** means any and all now known or hereafter existing intellectual property rights embodied in the Services, including (a) rights associated with works of authorship, including copyrights, mask work rights, and moral rights; (b) trademark or service mark rights; (c) trade secret rights; (d) patents, patent rights, and industrial property rights; (e) layout design rights, design rights, and other proprietary rights of every kind and nature other than trademarks, service marks, trade dress, and similar rights; and (f) all registrations, applications, renewals, extensions, or reissues of the foregoing, in each case in any jurisdiction throughout the world.
     1. "**Law(s)**" means with respect to any party, in each case to the extent applicable to such party, its property, the Services or in connection with this Agreement, any federal, national, provincial, state, county, municipal or local law, ordinance, statute, rule, regulation, code, policy, notice, treaty, judgment, executive order, decree, injunction, permit, issuance or other determination or finding of any governmental authority which is legally enforceable by a governmental entity.
-**"Order" or "Order Form" **means an ordering document that is signed by both parties identifying the services deployed by Company pursuant to this Agreement. The initial Order is set forth on **Exhibit A**.
+**"Order" or "Order Form"** means an ordering document that is signed by both parties identifying the services deployed by Company pursuant to this Agreement. The initial Order is set forth on **Exhibit A**.
 
 **"Order Term"** means the term length specified in the applicable Order Form.
 
@@ -232,15 +232,15 @@ This Order Form (the "**Order Form**") is entered into by and between the compan
 Upon signature by both parties, this Order Form shall become legally binding. Subscriptions are non-cancelable before the end of the Initial Order Term or Renewal Order Term.
 
 [*The remainder of this page is intentionally left blank; signature page follows.*]
-**Customer: **<mark>________________________________</mark>	**Company: **<mark>_____________________________</mark>
+**Customer: <mark>________________________________</mark> Company: <mark>_____________________________</mark>**
 
-**By:**			**By:**
+**By:			 By:**
 
-**Name:	**		**Name:**
+**Name:		     Name:**
 
-**Title:	**		**Title:**
+**Title:		 Title:**
 
-**Date:	**		**Date:**
+**Date:			 Date:**
 
 **Exhibit B**
 **Customer Supplemental Terms**
