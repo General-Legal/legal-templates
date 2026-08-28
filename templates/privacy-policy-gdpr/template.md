@@ -74,7 +74,7 @@ Transfer
 
 ## For more information concerning our automatic collection of data, please see the Tracking technologies section below.
 
-**Data about others. **We may offer features that help users invite their friends or contacts to use the Service, and we may collect contact details about these invitees so we can deliver their invitations. Please do not refer someone to us or share their contact details with us unless you have their permission to do so.
+**Data about others.** We may offer features that help users invite their friends or contacts to use the Service, and we may collect contact details about these invitees so we can deliver their invitations. Please do not refer someone to us or share their contact details with us unless you have their permission to do so.
 
 # Tracking & Other Technologies
 
