@@ -121,49 +121,49 @@ Data Processing Details**
 
 **PROVIDER DETAILS**
 
-**Name: **[<mark>CompanyName</mark>]
+**Name:** [<mark>CompanyName</mark>]
 
-**Address: **[<mark>INSERT</mark>]
+**Address:** [<mark>INSERT</mark>]
 
-**Contact Details for Data Protection: **[<mark>Role</mark>] ‍[<mark>Email</mark>]** 
+**Contact Details for Data Protection:** [<mark>Role</mark>] ‍[<mark>Email</mark>]** 
 
-**Provider Activities: **[<mark>Brief Company description</mark>]
+**Provider Activities:** [<mark>Brief Company description</mark>]
 
 **CUSTOMER DETAILS**
 
-**Name: **The entity or other person who is a counterparty to the Agreement
+**Name:** The entity or other person who is a counterparty to the Agreement
 
-**Customer's address: **[<mark>INSERT</mark>]
+**Customer's address:** [<mark>INSERT</mark>]
 
-**Customer's Contact Details for Data Protection: **[<mark>Role</mark>] ‍[<mark>Email</mark>]** **
+**Customer's Contact Details for Data Protection:** [<mark>Role</mark>] ‍[<mark>Email</mark>]
 
-**Customer Activities: **Customer's activities relevant to this DPA are the use and receipt of the Services under and in accordance with, and for the purposes anticipated and permitted in, the Agreement as part of its ongoing business operations.
+**Customer Activities:** Customer's activities relevant to this DPA are the use and receipt of the Services under and in accordance with, and for the purposes anticipated and permitted in, the Agreement as part of its ongoing business operations.
 
-**Categories of Data Subjects: **Relevant Data Subjects include any Data Subjects whose Personal Data Customer causes Provider to Process in connection with the Services, including end-users and other users of Customer's products and services, and Customer's personnel (including employees and contractors) and other business contacts or representatives of Customer.
+**Categories of Data Subjects:** Relevant Data Subjects include any Data Subjects whose Personal Data Customer causes Provider to Process in connection with the Services, including end-users and other users of Customer's products and services, and Customer's personnel (including employees and contractors) and other business contacts or representatives of Customer.
 
-**Categories of Personal Data: **Relevant Personal Data includes any categories of Personal Data Customer causes Provider to Process as part of the provision of the Services, including:
+**Categories of Personal Data:** Relevant Personal Data includes any categories of Personal Data Customer causes Provider to Process as part of the provision of the Services, including:
 
-**Personal details - **for example any information that identifies the Data Subject, including name and contact information.
+**Personal details -** for example any information that identifies the Data Subject, including name and contact information.
 
-**Authentication details - **for example usernames, passwords or PIN codes used to access the Services, security questions and other access protocols.
+**Authentication details -** for example usernames, passwords or PIN codes used to access the Services, security questions and other access protocols.
 
-**Technological details - **for example internet protocol (IP) addresses, unique identifiers and numbers (including unique identifiers in tracking cookies or similar technology), pseudonymous identifiers, precise and imprecise location data, internet / application / program activity data, and device IDs and addresses.
+**Technological details -** for example internet protocol (IP) addresses, unique identifiers and numbers (including unique identifiers in tracking cookies or similar technology), pseudonymous identifiers, precise and imprecise location data, internet / application / program activity data, and device IDs and addresses.
 
 **Sensitive Categories of Data, and associated additional restrictions/safeguards:**
 
-**Categories of sensitive data: **None - as noted in Section 6(b) of the DPA, Customer agrees that Restricted Data must not be submitted to the Services without the Parties' prior written agreement.
+**Categories of sensitive data:** None - as noted in Section 6(b) of the DPA, Customer agrees that Restricted Data must not be submitted to the Services without the Parties' prior written agreement.
 
-**Additional safeguards for sensitive data: **N/A
+**Additional safeguards for sensitive data:** N/A
 
-**Frequency of transfer: **Ongoing - as initiated by Customer in and through its use, or use on its behalf, of the Services.
+**Frequency of transfer:** Ongoing - as initiated by Customer in and through its use, or use on its behalf, of the Services.
 
-**Nature of the Processing: **Processing operations required in order to provide the Services and perform Provider's obligations in accordance with the Agreement and this DPA.
+**Nature of the Processing:** Processing operations required in order to provide the Services and perform Provider's obligations in accordance with the Agreement and this DPA.
 
-**Purpose of the Processing: **As necessary to provide the Services as initiated by Customer in its use thereof, and to comply with Customer's documented instructions as permitted under and in accordance with the terms of this DPA and the Agreement.
+**Purpose of the Processing:** As necessary to provide the Services as initiated by Customer in its use thereof, and to comply with Customer's documented instructions as permitted under and in accordance with the terms of this DPA and the Agreement.
 
-**Duration of Processing / Retention Period: **For the period determined in accordance with the Agreement and DPA, including Section 9 of the DPA.
+**Duration of Processing / Retention Period:** For the period determined in accordance with the Agreement and DPA, including Section 9 of the DPA.
 
-**Transfers to (sub)processors: **Transfers to Subprocessors are as, and for the purposes, described from time to time in the <mark>Subprocessor List (Annex 4) / Subprocessor Site</mark>.
+**Transfers to (sub)processors:** Transfers to Subprocessors are as, and for the purposes, described from time to time in the <mark>Subprocessor List (Annex 4) / Subprocessor Site</mark>.
 
 **Annex 2
 State Privacy Laws Annex**
