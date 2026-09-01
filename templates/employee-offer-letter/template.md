@@ -47,3 +47,7 @@ Respectfully,
 | --- |
 
 Exhibit A: Employee Confidential Information and Inventions Assignment Agreement
+
+---
+
+This template was prepared and made publicly available by General Legal, PC ("General Legal"). It is provided for general reference purposes only and does not constitute, and should not be construed as, legal advice, or an endorsement or review of any particular transaction in which it is used. Use of this template does not create an attorney-client relationship with General Legal. General Legal has not reviewed, and takes no position on, any modifications made to this document or the deal terms it is used to document.
