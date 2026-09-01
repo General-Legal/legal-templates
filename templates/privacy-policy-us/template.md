@@ -306,3 +306,7 @@ Under some State Privacy Laws, you may enable an authorized agent to make a requ
 [**Additional information for Texas residents.** We may "sell" your sensitive personal data, as defined by the Texas Data Privacy and Security Act, by [<mark>DESCRIBE, e.g., using services that help deliver interest-based ads to you as described above</mark>].]
 
 **Contact Us.** If you have questions or concerns about our privacy policies or information practices, please contact us using the contact details set forth in the How to contact us section above.
+
+---
+
+This template was prepared and made publicly available by General Legal, PC ("General Legal"). It is provided for general reference purposes only and does not constitute, and should not be construed as, legal advice, or an endorsement or review of any particular transaction in which it is used. Use of this template does not create an attorney-client relationship with General Legal. General Legal has not reviewed, and takes no position on, any modifications made to this document or the deal terms it is used to document.
