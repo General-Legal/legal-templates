@@ -105,3 +105,5 @@ Conflicting Terms. In the event that any terms of this BAA conflict with any ter
 # "Security Incident" means any access, use, disclosure, modification, transmission, or destruction, of PHI that is not authorized under the Services Agreement, this BAA, or is otherwise permissible under the HIPAA Rules.
 
 # "Unsecured PHI" means PHI that is not rendered unusable, unreadable, or indecipherable to unauthorized persons through the use of a technology or methodology specified by the Secretary in the Guidance.
+
+This template was prepared and made publicly available by General Legal, PC ("General Legal"). It is provided for general reference purposes only and does not constitute, and should not be construed as, legal advice, or an endorsement or review of any particular transaction in which it is used. Use of this template does not create an attorney-client relationship with General Legal. General Legal has not reviewed, and takes no position on, any modifications made to this document or the deal terms it is used to document.
