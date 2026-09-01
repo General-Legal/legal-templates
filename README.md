@@ -6,7 +6,7 @@ These templates are provided in LLM-optimized markdown and original .docx format
 
 ## Attribution
 
-These templates include a General Legal credit footnote. The templates are released under CC0 1.0 Universal, so retaining that footnote isn't a legal requirement — but we ask that you keep it in place when reproducing or adapting these documents.
+These templates include a General Legal credit footnote. The templates are released under CC0 1.0 Universal, so retaining that footnote isn't a legal requirement, but we ask that you keep it in place when reproducing or adapting these documents.
 
 ## Templates
 
