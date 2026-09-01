@@ -68,3 +68,7 @@ These Terms of Use ("**Terms**") govern your use of the Site. By accessing or us
     9. **Opt-Out.** You may opt out of this arbitration clause and the class action waiver by sending written notice to <mark>[Insert Email or Address]</mark> within 30 days of first agreeing to these Terms (or being notified of a material change to this clause). Your notice must include your full legal name, the email address associated with your account, and a clear statement that you wish to opt out.
     10. **Severability.** If any provision of this arbitration clause is invalid or unenforceable, it will be automatically modified to the minimum extent necessary to be enforceable; all other provisions remain in full force and effect.
     11. **Material Inducement.** YOU ACKNOWLEDGE THAT YOUR AGREEMENT TO ARBITRATE BEFORE DECISIONLAYER IS A MATERIAL INDUCEMENT FOR COMPANY TO ENTER INTO THESE TERMS WITH YOU.
+   
+---
+
+This template was prepared and made publicly available by General Legal, PC ("General Legal"). It is provided for general reference purposes only and does not constitute, and should not be construed as, legal advice, or an endorsement or review of any particular transaction in which it is used. Use of this template does not create an attorney-client relationship with General Legal. General Legal has not reviewed, and takes no position on, any modifications made to this document or the deal terms it is used to document.
