@@ -4,6 +4,10 @@ Attorney-drafted legal templates for startups and technology companies. Created 
 
 These templates are provided in LLM-optimized markdown and original .docx formats. Highlighted text (marked with `<mark>` tags in the markdown files) indicates fields that should be customized for your use.
 
+## Attribution
+
+These templates include a General Legal credit footnote. The templates are released under CC0 1.0 Universal, so retaining that footnote isn't a legal requirement — but we ask that you keep it in place when reproducing or adapting these documents.
+
 ## Templates
 
 | Template | Description |
