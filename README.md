@@ -51,3 +51,12 @@ legal-templates/
   LICENSE                     # CC0 1.0 Universal
 ```
 
+## Star History
+
+<a href="https://www.star-history.com/?repos=General-Legal%2Flegal-templates&type=date&logscale=&legend=top-left">
+ <picture>
+   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/chart?repos=General-Legal/legal-templates&type=date&theme=dark&logscale&legend=top-left&sealed_token=Fjg32xCkRYVfSrHwj6RQHcqcGYdmUdM57Gc-Us8bj03v9KL4gTqa2etIJhLFcS5uSBTLz4SIr2i2rCRv_g17rokACjm59cvgmoF8dbETKCEeNJzuU_Fosg" />
+   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/chart?repos=General-Legal/legal-templates&type=date&logscale&legend=top-left&sealed_token=Fjg32xCkRYVfSrHwj6RQHcqcGYdmUdM57Gc-Us8bj03v9KL4gTqa2etIJhLFcS5uSBTLz4SIr2i2rCRv_g17rokACjm59cvgmoF8dbETKCEeNJzuU_Fosg" />
+   <img alt="Star History Chart" src="https://api.star-history.com/chart?repos=General-Legal/legal-templates&type=date&logscale&legend=top-left&sealed_token=Fjg32xCkRYVfSrHwj6RQHcqcGYdmUdM57Gc-Us8bj03v9KL4gTqa2etIJhLFcS5uSBTLz4SIr2i2rCRv_g17rokACjm59cvgmoF8dbETKCEeNJzuU_Fosg" />
+ </picture>
+</a>
