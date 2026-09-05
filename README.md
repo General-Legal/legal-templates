@@ -25,6 +25,24 @@ These templates include a General Legal credit footnote. The templates are relea
 | [Privacy Policy (GDPR Enhanced)](templates/privacy-policy-gdpr/) | Multi-jurisdictional privacy policy covering both U.S. state laws and GDPR/UK GDPR |
 | [Terms of Use](templates/terms-of-use/) | Website terms of use covering access rights, IP protections, liability limits, and dispute resolution |
 
+## Downloading
+
+Every template is available three ways:
+
+- **Markdown** — browse `templates/<name>/template.md` in this repository, or read it with an agent.
+- **Word (.docx)** — download an individual file or `legal-templates-docx.zip` from the [latest release](https://github.com/General-Legal/legal-templates/releases/latest). Every release is compiled from the markdown in this repository by CI, so the two never drift apart. Verify downloads against the `SHA256SUMS` published alongside.
+- **Original .docx** — the `docx-originals/` directory holds the source files the markdown was converted from.
+
+To build the Word files yourself:
+
+```bash
+pip install -r scripts/requirements.txt
+python3 scripts/build_docx.py                 # all templates -> build/docx/
+python3 scripts/build_docx.py mutual-nda      # just one
+```
+
+Highlighted text in the `.docx` output is the same set of fields marked with `<mark>` in the markdown. The build verifies this on every run and fails if a placeholder is lost.
+
 ## Repository Structure
 
 ```
@@ -48,6 +66,9 @@ legal-templates/
   scripts/
     fetch_templates.py        # Downloads .docx files from general.legal/resources/library
     convert_docx.py           # Converts .docx originals to markdown
+    build_docx.py             # Compiles templates/*/template.md back into .docx
+  .github/workflows/
+    docx.yml                  # Builds the .docx files; publishes them on a v* tag
   LICENSE                     # CC0 1.0 Universal
 ```
 

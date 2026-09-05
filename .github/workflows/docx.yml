@@ -1,0 +1,115 @@
+name: Build .docx
+
+# Markdown is the source of truth; the .docx files are compiled from it.
+# Every push and pull request that touches a template rebuilds them and
+# uploads them as a workflow artifact, so a reviewer can download the Word
+# version of a change before merging it.
+#
+# Both ways of cutting a release attach those .docx files to the release
+# page, so it does not matter which one you use:
+#   git tag v1.0.0 && git push origin v1.0.0   -> creates the release
+#   Releases > Draft a new release > Publish   -> attaches to the release
+# GitHub does not apply the paths filter below to tag pushes, so a v* tag
+# always builds even though it changes no files.
+on:
+  push:
+    branches: [main]
+    tags: ['v*']
+    paths:
+      - 'templates/**/template.md'
+      - 'scripts/build_docx.py'
+      - 'scripts/requirements.txt'
+      - '.github/workflows/docx.yml'
+  pull_request:
+    paths:
+      - 'templates/**/template.md'
+      - 'scripts/build_docx.py'
+      - 'scripts/requirements.txt'
+      - '.github/workflows/docx.yml'
+  release:
+    types: [published]
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+          cache: pip
+          cache-dependency-path: scripts/requirements.txt
+
+      - name: Install dependencies
+        run: pip install -r scripts/requirements.txt
+
+      # --check (on by default) fails the build if any <mark> placeholder
+      # did not survive as highlighted text in the .docx.
+      - name: Compile templates
+        run: python3 scripts/build_docx.py --out build/docx --zip
+
+      - name: Checksums
+        working-directory: build/docx
+        run: sha256sum *.docx | tee SHA256SUMS
+
+      - uses: actions/upload-artifact@v4
+        with:
+          name: legal-templates-docx
+          path: |
+            build/docx/
+            build/legal-templates-docx.zip
+          retention-days: 90
+          if-no-files-found: error
+
+  release:
+    needs: build
+    if: github.event_name == 'release' || startsWith(github.ref, 'refs/tags/v')
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/download-artifact@v4
+        with:
+          name: legal-templates-docx
+          path: build
+
+      # Publishing from the Releases page creates the release before this
+      # workflow starts, so create it only when it is not already there and
+      # upload the assets either way.
+      - name: Attach .docx files to the release
+        env:
+          GH_TOKEN: ${{ github.token }}
+          TAG: ${{ github.event.release.tag_name || github.ref_name }}
+        run: |
+          set -euo pipefail
+
+          cat > notes.md <<'NOTES'
+          Word (.docx) builds of every template in this repository, compiled
+          from the markdown sources by `scripts/build_docx.py`.
+
+          Download `legal-templates-docx.zip` for all of them, or an
+          individual `.docx` below. Highlighted text marks the fields to
+          customize. Verify downloads against `SHA256SUMS`.
+
+          Released under CC0 1.0. Not legal advice.
+          NOTES
+
+          if gh release view "$TAG" >/dev/null 2>&1; then
+            echo "Release $TAG exists; uploading assets."
+          else
+            echo "Creating release $TAG."
+            gh release create "$TAG" --title "$TAG" --notes-file notes.md
+          fi
+
+          gh release upload "$TAG" \
+            build/docx/*.docx \
+            build/docx/SHA256SUMS \
+            build/legal-templates-docx.zip \
+            --clobber
