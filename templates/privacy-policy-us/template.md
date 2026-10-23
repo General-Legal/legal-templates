@@ -1,4 +1,4 @@
-| Last Updated: [DATE] TEMPLATE PRIVACY POLICY AND COOKIE NOTICE (GDPR compliant for U.S. Company with no "establishment" in the EEA or UK) |
+| Last Updated: [DATE] TEMPLATE PRIVACY POLICY (U.S. only; contains no GDPR or UK GDPR provisions) |
 | --- |
 
 **Privacy Policy**
@@ -14,9 +14,18 @@ Please click **here** to view the previous version of our Privacy Policy.
 You can download a printable copy of this Privacy Policy <mark>here</mark>.
 
 **Index**
+Personal information we collect
 Tracking & Other Technologies
+How we use your personal information
 [Retention]
+How we share your personal information
+Your choices
+Other sites and services
+Security
 Transfer
+Children
+Changes to this Privacy Policy
+How to contact us
 [State privacy rights notice]
 
 # Personal information we collect
@@ -109,7 +118,7 @@ personalize your experience with the Service and our Service-related communicati
 
 remember your selections and preferences as you navigate webpages.
 
-## Service improvement and analytics. We may use your personal information to analyze your usage of the Service, improve the Service, improve the rest of our business, help us understand user activity on the Service, including which pages are most and least visited and how visitors move around the Service, as well as user interactions with our emails, and to develop new products and services. [For more information on analytics, see our Cookie Notice.] [<mark>For example, we use Google Analytics for this purpose. You can learn more about Google Analytics and how to prevent the use of Google Analytics relating to your use of our sites here: .</mark>]
+## Service improvement and analytics. We may use your personal information to analyze your usage of the Service, improve the Service, improve the rest of our business, help us understand user activity on the Service, including which pages are most and least visited and how visitors move around the Service, as well as user interactions with our emails, and to develop new products and services. [For more information on analytics, see our Cookie Notice.] [<mark>For example, we use Google Analytics for this purpose. You can learn more about Google Analytics and how to prevent the use of Google Analytics relating to your use of our sites here: https://tools.google.com/dlpage/gaoptout?hl=en.</mark>]
 
 ## Marketing and advertising. We, our service providers and our third-party advertising partners may collect and use your personal information for marketing and advertising purposes:
 
@@ -157,7 +166,7 @@ We may share your personal information with the following parties (or as otherwi
 
 **Service providers.** Third parties that provide services on our behalf or help us operate the Service or our business (such as hosting, information technology, customer support, [<mark>AI providers, such as online chat functionality providers and other providers of generative AI technologies such as OpenAI</mark>], email delivery, marketing, consumer research and website analytics).
 
-**Payment processors**. Any payment card information you use to make a purchase on the Service is collected and processed directly by our payment processors, [<mark>such as PayPal. PayPal may use your payment data in accordance with its privacy policy, . You may also sign up to be billed by your mobile communications provider, who may use your payment data in accordance with their privacy policies/such as Stripe. Stripe may use your payment data in accordance with its privacy policy, https://stripe.com/privacy.]</mark>
+**Payment processors**. Any payment card information you use to make a purchase on the Service is collected and processed directly by our payment processors, [<mark>such as PayPal. PayPal may use your payment data in accordance with its privacy policy, https://www.paypal.com/us/webapps/mpp/ua/privacy-full. You may also sign up to be billed by your mobile communications provider, who may use your payment data in accordance with their privacy policies/such as Stripe. Stripe may use your payment data in accordance with its privacy policy, https://stripe.com/privacy.]</mark>
 
 **Advertising partners.** Third-party advertising companies for the interest-based advertising purposes described above.
 
@@ -192,13 +201,13 @@ We may share your personal information with the following parties (or as otherwi
 
 ## [<mark>Privacy settings. We make available certain privacy settings on the Service, including options to control [ADD].</mark>]
 
-## Do Not Track. Some Internet browsers may be configured to send "Do Not Track" signals to the online services that you visit. We currently do not respond to "Do Not Track" signals. To find out more about "Do Not Track," please visit .
+## Do Not Track. Some Internet browsers may be configured to send "Do Not Track" signals to the online services that you visit. We currently do not respond to "Do Not Track" signals. To find out more about "Do Not Track," please visit http://www.allaboutdnt.com.
 
 ## Declining to provide information. We need to collect personal information to provide certain services. If you do not provide the information we identify as required or mandatory, we may not be able to provide those services.
 
 ## Linked third-party platforms. If you choose to connect to the Service through your social media account or other third-party platform, you may be able to use your settings in your account with that platform to limit the information we receive from it. If you revoke our ability to access information from a third-party platform, that choice will not apply to information that we have already received from that third party.
 
-[<mark>**Delete your content or close your account.** You can choose to delete certain content through your account. If you wish to request to close your account, please .</mark>]
+[<mark>**Delete your content or close your account.** You can choose to delete certain content through your account. If you wish to request to close your account, please contact us.</mark>]
 
 # Other sites and services
 
@@ -242,13 +251,13 @@ The categories of Personal Information that we have collected.
 
 The categories of sources from which we collected Personal Information.
 
-The business or commercial purpose for collecting and/or selling Personal Information.
+The business or commercial purpose for collecting, selling, or sharing Personal Information.
 
 The categories of third parties with which we share Personal Information.
 
-The categories of Personal Information that we sold or disclosed for a business purpose.
+The categories of Personal Information that we sold, shared, or disclosed for a business purpose.
 
-The categories of third parties to whom the Personal Information was sold or disclosed for a business purpose.
+The categories of third parties to whom the Personal Information was sold, shared, or disclosed for a business purpose.
 
 **Access**. You can request a copy of the Personal Information that we have collected about you.
 
@@ -268,11 +277,11 @@ The categories of third parties to whom the Personal Information was sold or dis
 
 <mark>[Opt-in. We may sell or share the personal information of consumers between 13-15 years of age. If we know that you are 13-15 years of age, we will ask for your affirmative authorization to sell your Personal Information or share your Personal Information for targeted advertising purposes before we do so. Note that we do not intentionally collect Personal Information from children under the age of 13.] OR [Consumers under 16. We do not have actual knowledge that we collect, sell or share the personal information of consumers under 16 years of age.]</mark>
 
-<mark>[Limit processing of Sensitive Personal Information. We may collect certain categories of Sensitive Personal Information as described in this Privacy Policy. You can ask us to stop the processing of your Sensitive Personal Information for purposes of inferring characteristics about you.] /[Sensitive Personal Information. While we process certain categories of Sensitive Personal Information as described in this Privacy Policy, we do not process Sensitive Personal Information for the purpose of inferring characteristics about consumers under the CCPA.] / [Sensitive Personal Information. We do not intentionally collect or process Sensitive Personal Information.]</mark>
+<mark>[Limit processing of Sensitive Personal Information. We may collect certain categories of Sensitive Personal Information as described in this Privacy Policy. You can ask us to limit our use and disclosure of your Sensitive Personal Information to uses necessary to perform the services or provide the goods reasonably expected by an average consumer who requests them and to the other uses that the CCPA allows after such a request.] /[Sensitive Personal Information. While we process certain categories of Sensitive Personal Information as described in this Privacy Policy, we do not process Sensitive Personal Information for the purpose of inferring characteristics about consumers under the CCPA.] / [Sensitive Personal Information. We do not intentionally collect or process Sensitive Personal Information.]</mark>
 
 **Nondiscrimination.** You are entitled to exercise the rights described above free from discrimination as prohibited by the State Privacy Laws.
 
-**Exercising your right to opt-out of the "sale" or "sharing" of your Personal Information.** While we do not sell personal information for money, like many companies, we use services that help deliver interest-based ads to you as described above. The State Privacy Laws may classify our use of some of these services as "selling" or "sharing" your Personal Information with the advertising partners that provide the services. You can submit requests to opt-out of tracking for targeted advertising purposes or other sales of Personal Information here: [<mark>LINK</mark>], via email to [<mark>EMAIL</mark>] or via phone by calling [<mark>NUMBER</mark>], or by broadcasting the Global Privacy Control ("GPC") signal. We honor GPC signals as valid opt-out requests for the sale or sharing of Personal Information, as required by applicable law. When we detect a GPC signal from your browser, we will treat it as a request to opt out of the sale or sharing of your Personal Information. For more information about GPC, visit . [<mark>INSERT ADDITIONAL RELEVANT OPT-OUT PREFERENCE SIGNAL DETAILS</mark>].
+**Exercising your right to opt-out of the "sale" or "sharing" of your Personal Information.** While we do not sell personal information for money, like many companies, we use services that help deliver interest-based ads to you as described above. The State Privacy Laws may classify our use of some of these services as "selling" or "sharing" your Personal Information with the advertising partners that provide the services. You can submit requests to opt-out of tracking for targeted advertising purposes or other sales of Personal Information here: [<mark>LINK</mark>], via email to [<mark>EMAIL</mark>] or via phone by calling [<mark>NUMBER</mark>], or by broadcasting the Global Privacy Control ("GPC") signal. We honor GPC signals as valid opt-out requests for the sale or sharing of Personal Information, as required by applicable law. When we detect a GPC signal from your browser, we will treat it as a request to opt out of the sale or sharing of your Personal Information. For more information about GPC, visit https://globalprivacycontrol.org/. [<mark>INSERT ADDITIONAL RELEVANT OPT-OUT PREFERENCE SIGNAL DETAILS</mark>].
 
 **Exercising other state privacy rights.** You may submit requests to exercise any of the other state privacy rights listed above at [link to webform], calling us toll free at [1-XXX-XXX-XXXX], or via email to [email for data requests].
 
@@ -300,10 +309,10 @@ Under some State Privacy Laws, you may enable an authorized agent to make a requ
 
 **Additional information for California residents.**
 
-**Shine the light law.**  Under California's Shine the Light law (California Civil Code Section 1798.83), California residents may ask companies with whom they have formed a business relationship primarily for personal, family or household purposes to provide the names of third parties to which they have disclosed certain personal information (as defined under the Shine the Light law) during the preceding calendar year for their own direct marketing purposes, and the categories of personal information disclosed. You may send us requests for this information to [<mark>EMAIL</mark>]. In your request, you must include the statement "Shine the Light Request," and provide your first and last name and mailing address and certify that you are a California resident. We reserve the right to require additional information to confirm your identity and California residency. Please note that we will not accept requests via telephone, mail, or facsimile, and we are not responsible for notices that are not labeled or sent properly, or that do not have complete information.
+**Shine the light law.**  Under California's Shine the Light law (California Civil Code Section 1798.83), California residents may ask companies with whom they have formed a business relationship primarily for personal, family or household purposes to provide the names and addresses of third parties to which they have disclosed certain personal information (as defined under the Shine the Light law) during the preceding calendar year for their own direct marketing purposes, the categories of personal information disclosed, and, where the nature of a third party's business cannot reasonably be determined from its name, examples of the products or services it markets, if known to the company. You may send us requests for this information to [<mark>EMAIL</mark>]. In your request, you must include the statement "Shine the Light Request," and provide your first and last name and mailing address and certify that you are a California resident. We reserve the right to require additional information to confirm your identity and California residency. Please note that we will not accept requests via telephone, mail, or facsimile, and we are not responsible for notices that are not labeled or sent properly, or that do not have complete information.
 [**Additional information for Nevada residents.** Nevada residents have the right to opt-out of the sale of certain personal information for monetary consideration. While we do not currently engage in such sales, if you are a Nevada resident and would like to make a request to opt out of any potential future sales, please email [<mark>EMAIL</mark>].]
 
-[**Additional information for Texas residents.** We may "sell" your sensitive personal data, as defined by the Texas Data Privacy and Security Act, by [<mark>DESCRIBE, e.g., using services that help deliver interest-based ads to you as described above</mark>].]
+[**Additional information for Texas residents.** [NOTICE: We may sell your sensitive personal data.] [NOTICE: We may sell your biometric personal data.] [<mark>OPTIONAL DESCRIPTION, e.g., The Texas Data Privacy and Security Act may treat our use of services that help deliver interest-based ads to you, as described above, as a sale of sensitive data.</mark>]]
 
 **Contact Us.** If you have questions or concerns about our privacy policies or information practices, please contact us using the contact details set forth in the How to contact us section above.
 

@@ -1,4 +1,4 @@
-| Last Updated: [DATE] TEMPLATE PRIVACY POLICY AND COOKIE NOTICE (GDPR compliant for U.S. Company with no "establishment" in the EEA or UK) |
+| Last Updated: [DATE] TEMPLATE PRIVACY POLICY (GDPR compliant for U.S. Company with no "establishment" in the EEA or UK) |
 | --- |
 
 **Privacy Policy**
@@ -11,15 +11,25 @@ Please click **here** to view the previous version of our Privacy Policy.
 
 [<mark>Full Company Name</mark>] [and our subsidiaries and affiliates] ("**[**<mark>CompanyName</mark>**]**," "**we**", "**us**" or "**our**") provides a [<mark>DESCRIPTION OF BUSINESS</mark>]. This Privacy Policy describes how [CompanyName] processes personal information that we collect through our digital or online properties or services that link to this Privacy Policy (including as applicable, our website, mobile application, and social media pages) as well as our marketing activities, live events and other activities described in this Privacy Policy (collectively, the "Service").
 
-[<mark>NOTICE TO EUROPEAN USERS: Please see the section for additional information for individuals located in the European Economic Area or United Kingdom (which we refer to as "Europe", and "European" should be understood accordingly) below.]</mark>
+[<mark>NOTICE TO EUROPEAN USERS: Please see the Notice to European Users section for additional information for individuals located in the European Economic Area or United Kingdom (which we refer to as "Europe", and "European" should be understood accordingly) below.]</mark>
 
 You can download a printable copy of this Privacy Policy <mark>here</mark>.
 
 **Index**
+Personal information we collect
 Tracking & Other Technologies
+How we use your personal information
 [Retention]
+How we share your personal information
+Your choices
+Other sites and services
+Security
 Transfer
+Children
+Changes to this Privacy Policy
+How to contact us
 [State privacy rights notice]
+[<mark>Notice to European users</mark>]
 
 # Personal information we collect
 
@@ -111,7 +121,7 @@ personalize your experience with the Service and our Service-related communicati
 
 remember your selections and preferences as you navigate webpages.
 
-## Service improvement and analytics. We may use your personal information to analyze your usage of the Service, improve the Service, improve the rest of our business, help us understand user activity on the Service, including which pages are most and least visited and how visitors move around the Service, as well as user interactions with our emails, and to develop new products and services. [For more information on analytics, see our Cookie Notice.] [<mark>For example, we use Google Analytics for this purpose. You can learn more about Google Analytics and how to prevent the use of Google Analytics relating to your use of our sites here: .</mark>]
+## Service improvement and analytics. We may use your personal information to analyze your usage of the Service, improve the Service, improve the rest of our business, help us understand user activity on the Service, including which pages are most and least visited and how visitors move around the Service, as well as user interactions with our emails, and to develop new products and services. [For more information on analytics, see our Cookie Notice.] [<mark>For example, we use Google Analytics for this purpose. You can learn more about Google Analytics and how to prevent the use of Google Analytics relating to your use of our sites here: https://tools.google.com/dlpage/gaoptout?hl=en.</mark>]
 
 ## Marketing and advertising. We, our service providers and our third-party advertising partners may collect and use your personal information for marketing and advertising purposes:
 
@@ -159,7 +169,7 @@ We may share your personal information with the following parties (or as otherwi
 
 **Service providers.** Third parties that provide services on our behalf or help us operate the Service or our business (such as hosting, information technology, customer support, [<mark>AI providers, such as online chat functionality providers and other providers of generative AI technologies such as OpenAI</mark>], email delivery, marketing, consumer research and website analytics).
 
-**Payment processors**. Any payment card information you use to make a purchase on the Service is collected and processed directly by our payment processors, [<mark>such as PayPal. PayPal may use your payment data in accordance with its privacy policy, . You may also sign up to be billed by your mobile communications provider, who may use your payment data in accordance with their privacy policies/such as Stripe. Stripe may use your payment data in accordance with its privacy policy, https://stripe.com/privacy.]</mark>
+**Payment processors**. Any payment card information you use to make a purchase on the Service is collected and processed directly by our payment processors, [<mark>such as PayPal. PayPal may use your payment data in accordance with its privacy policy, https://www.paypal.com/us/webapps/mpp/ua/privacy-full. You may also sign up to be billed by your mobile communications provider, who may use your payment data in accordance with their privacy policies/such as Stripe. Stripe may use your payment data in accordance with its privacy policy, https://stripe.com/privacy.]</mark>
 
 **Advertising partners.** Third-party advertising companies for the interest-based advertising purposes described above.
 
@@ -194,13 +204,13 @@ We may share your personal information with the following parties (or as otherwi
 
 ## [<mark>Privacy settings. We make available certain privacy settings on the Service, including options to control [ADD].</mark>]
 
-## Do Not Track. Some Internet browsers may be configured to send "Do Not Track" signals to the online services that you visit. We currently do not respond to "Do Not Track" signals. To find out more about "Do Not Track," please visit .
+## Do Not Track. Some Internet browsers may be configured to send "Do Not Track" signals to the online services that you visit. We currently do not respond to "Do Not Track" signals. To find out more about "Do Not Track," please visit http://www.allaboutdnt.com.
 
 ## Declining to provide information. We need to collect personal information to provide certain services. If you do not provide the information we identify as required or mandatory, we may not be able to provide those services.
 
 ## Linked third-party platforms. If you choose to connect to the Service through your social media account or other third-party platform, you may be able to use your settings in your account with that platform to limit the information we receive from it. If you revoke our ability to access information from a third-party platform, that choice will not apply to information that we have already received from that third party.
 
-[<mark>**Delete your content or close your account.** You can choose to delete certain content through your account. If you wish to request to close your account, please .</mark>]
+[<mark>**Delete your content or close your account.** You can choose to delete certain content through your account. If you wish to request to close your account, please contact us.</mark>]
 
 # Other sites and services
 
@@ -214,7 +224,7 @@ We may share your personal information with the following parties (or as otherwi
 
 # We are headquartered in the United States and may use service providers that operate in other countries. Your personal information may be transferred to the United States or other locations where privacy laws may not be as protective as those in your state, province, or country.
 
-[<mark>Users in Europe should read the important information provided  about transfer of personal information outside of Europe.</mark>]
+[<mark>Users in Europe should read the important information provided below about transfer of personal information outside of Europe.</mark>]
 
 # Children
 
@@ -246,13 +256,13 @@ The categories of Personal Information that we have collected.
 
 The categories of sources from which we collected Personal Information.
 
-The business or commercial purpose for collecting and/or selling Personal Information.
+The business or commercial purpose for collecting, selling, or sharing Personal Information.
 
 The categories of third parties with which we share Personal Information.
 
-The categories of Personal Information that we sold or disclosed for a business purpose.
+The categories of Personal Information that we sold, shared, or disclosed for a business purpose.
 
-The categories of third parties to whom the Personal Information was sold or disclosed for a business purpose.
+The categories of third parties to whom the Personal Information was sold, shared, or disclosed for a business purpose.
 
 **Access**. You can request a copy of the Personal Information that we have collected about you.
 
@@ -272,11 +282,11 @@ The categories of third parties to whom the Personal Information was sold or dis
 
 <mark>[Opt-in. We may sell or share the personal information of consumers between 13-15 years of age. If we know that you are 13-15 years of age, we will ask for your affirmative authorization to sell your Personal Information or share your Personal Information for targeted advertising purposes before we do so. Note that we do not intentionally collect Personal Information from children under the age of 13.] OR [Consumers under 16. We do not have actual knowledge that we collect, sell or share the personal information of consumers under 16 years of age.]</mark>
 
-<mark>[Limit processing of Sensitive Personal Information. We may collect certain categories of Sensitive Personal Information as described in this Privacy Policy. You can ask us to stop the processing of your Sensitive Personal Information for purposes of inferring characteristics about you.] /[Sensitive Personal Information. While we process certain categories of Sensitive Personal Information as described in this Privacy Policy, we do not process Sensitive Personal Information for the purpose of inferring characteristics about consumers under the CCPA.] / [Sensitive Personal Information. We do not intentionally collect or process Sensitive Personal Information.]</mark>
+<mark>[Limit processing of Sensitive Personal Information. We may collect certain categories of Sensitive Personal Information as described in this Privacy Policy. You can ask us to limit our use and disclosure of your Sensitive Personal Information to uses necessary to perform the services or provide the goods reasonably expected by an average consumer who requests them and to the other uses that the CCPA allows after such a request.] /[Sensitive Personal Information. While we process certain categories of Sensitive Personal Information as described in this Privacy Policy, we do not process Sensitive Personal Information for the purpose of inferring characteristics about consumers under the CCPA.] / [Sensitive Personal Information. We do not intentionally collect or process Sensitive Personal Information.]</mark>
 
 **Nondiscrimination.** You are entitled to exercise the rights described above free from discrimination as prohibited by the State Privacy Laws.
 
-**Exercising your right to opt-out of the "sale" or "sharing" of your Personal Information.** While we do not sell personal information for money, like many companies, we use services that help deliver interest-based ads to you as described above. The State Privacy Laws may classify our use of some of these services as "selling" or "sharing" your Personal Information with the advertising partners that provide the services. You can submit requests to opt-out of tracking for targeted advertising purposes or other sales of Personal Information here: [<mark>LINK</mark>], via email to [<mark>EMAIL</mark>] or via phone by calling [<mark>NUMBER</mark>], or by broadcasting the Global Privacy Control ("GPC") signal. We honor GPC signals as valid opt-out requests for the sale or sharing of Personal Information, as required by applicable law. When we detect a GPC signal from your browser, we will treat it as a request to opt out of the sale or sharing of your Personal Information. For more information about GPC, visit . [<mark>INSERT ADDITIONAL RELEVANT OPT-OUT PREFERENCE SIGNAL DETAILS</mark>].
+**Exercising your right to opt-out of the "sale" or "sharing" of your Personal Information.** While we do not sell personal information for money, like many companies, we use services that help deliver interest-based ads to you as described above. The State Privacy Laws may classify our use of some of these services as "selling" or "sharing" your Personal Information with the advertising partners that provide the services. You can submit requests to opt-out of tracking for targeted advertising purposes or other sales of Personal Information here: [<mark>LINK</mark>], via email to [<mark>EMAIL</mark>] or via phone by calling [<mark>NUMBER</mark>], or by broadcasting the Global Privacy Control ("GPC") signal. We honor GPC signals as valid opt-out requests for the sale or sharing of Personal Information, as required by applicable law. When we detect a GPC signal from your browser, we will treat it as a request to opt out of the sale or sharing of your Personal Information. For more information about GPC, visit https://globalprivacycontrol.org/. [<mark>INSERT ADDITIONAL RELEVANT OPT-OUT PREFERENCE SIGNAL DETAILS</mark>].
 
 **Exercising other state privacy rights.** You may submit requests to exercise any of the other state privacy rights listed above at [link to webform], calling us toll free at [1-XXX-XXX-XXXX], or via email to [email for data requests].
 
@@ -304,10 +314,10 @@ Under some State Privacy Laws, you may enable an authorized agent to make a requ
 
 **Additional information for California residents.**
 
-**Shine the light law.**  Under California's Shine the Light law (California Civil Code Section 1798.83), California residents may ask companies with whom they have formed a business relationship primarily for personal, family or household purposes to provide the names of third parties to which they have disclosed certain personal information (as defined under the Shine the Light law) during the preceding calendar year for their own direct marketing purposes, and the categories of personal information disclosed. You may send us requests for this information to [<mark>EMAIL</mark>]. In your request, you must include the statement "Shine the Light Request," and provide your first and last name and mailing address and certify that you are a California resident. We reserve the right to require additional information to confirm your identity and California residency. Please note that we will not accept requests via telephone, mail, or facsimile, and we are not responsible for notices that are not labeled or sent properly, or that do not have complete information.
+**Shine the light law.**  Under California's Shine the Light law (California Civil Code Section 1798.83), California residents may ask companies with whom they have formed a business relationship primarily for personal, family or household purposes to provide the names and addresses of third parties to which they have disclosed certain personal information (as defined under the Shine the Light law) during the preceding calendar year for their own direct marketing purposes, the categories of personal information disclosed, and, where the nature of a third party's business cannot reasonably be determined from its name, examples of the products or services it markets, if known to the company. You may send us requests for this information to [<mark>EMAIL</mark>]. In your request, you must include the statement "Shine the Light Request," and provide your first and last name and mailing address and certify that you are a California resident. We reserve the right to require additional information to confirm your identity and California residency. Please note that we will not accept requests via telephone, mail, or facsimile, and we are not responsible for notices that are not labeled or sent properly, or that do not have complete information.
 [**Additional information for Nevada residents.** Nevada residents have the right to opt-out of the sale of certain personal information for monetary consideration. While we do not currently engage in such sales, if you are a Nevada resident and would like to make a request to opt out of any potential future sales, please email [<mark>EMAIL</mark>].]
 
-[**Additional information for Texas residents.** We may "sell" your sensitive personal data, as defined by the Texas Data Privacy and Security Act, by [<mark>DESCRIBE, e.g., using services that help deliver interest-based ads to you as described above</mark>].]
+[**Additional information for Texas residents.** [NOTICE: We may sell your sensitive personal data.] [NOTICE: We may sell your biometric personal data.] [<mark>OPTIONAL DESCRIPTION, e.g., The Texas Data Privacy and Security Act may treat our use of services that help deliver interest-based ads to you, as described above, as a sale of sensitive data.</mark>]]
 
 **Contact Us.** If you have questions or concerns about our privacy policies or information practices, please contact us using the contact details set forth in the How to contact us section above.
 
@@ -319,7 +329,7 @@ Under some State Privacy Laws, you may enable an authorized agent to make a requ
 
 <mark>Personal information. References to "personal information" in this Privacy Policy should be understood to include a reference to "personal data" (as defined in the GDPR) - i.e., information about individuals from which they are either directly identified or can be identified.</mark>
 
-## <mark>Controller. [CompanyName] is the controller in respect of the processing of your personal information covered by this Privacy Policy for purposes of European data protection legislation (i.e., the and the so-called ' (as and where applicable, the "GDPR")). See the 'How to contact us' section above for our contact details.</mark>
+## <mark>Controller. [CompanyName] is the controller in respect of the processing of your personal information covered by this Privacy Policy for purposes of European data protection legislation (i.e., the EU GDPR and the so-called 'UK GDPR' (as and where applicable, the "GDPR")). See the 'How to contact us' section above for our contact details.</mark>
 
 <mark>Our GDPR Representatives. We have appointed the following representatives in Europe as required by the GDPR - you can also contact them directly should you wish:</mark>
 
@@ -353,7 +363,7 @@ Under some State Privacy Laws, you may enable an authorized agent to make a requ
 | Interest-based advertising | [Demographic data] Device data Online activity data (Precise geolocation/Location) data | Consent |
 | Events, promotions and contests | Promotion data Contact data Demographic data Profile data Communications data | Contractual Necessity to administer the promotions and contests in accordance with the terms or rules thereof (including communicating with you as and where necessary) In respect of promoting these promotions and contests:  Legitimate Interests - we have a legitimate interest in promoting these promotions and contests, including associated publicising of our business and operations.  Consent - in circumstances or in jurisdictions where consent is required under applicable data protection laws to the sending of any given promotional communications. |
 | Compliance and protection | Contact data Demographic data | Compliance with Law. Legitimate Interests. Where Compliance with Law is not applicable, we and any relevant third parties have a legitimate interest in participating in, supporting, and following legal process and requests, including through co-operation with authorities. We and any relevant third parties may also have a legitimate interest of ensuring the protection, maintenance, and enforcement of our and their rights, property, and/or safety. |
-| Events, promotions and contests | Any and all data types relevant in the circumstances | Legitimate Interests. We and any relevant third parties have a legitimate interest in providing information to relevant third parties who are involved in an actual or prospective corporate event (including to enable them to investigate - and, where relevant, to continue to operate - all or relevant part(s) of our operations). However, we would always look to take steps to minimize the amount and sensitivity of any personal information shared in these contexts where possible and appropriate. |
+| Data sharing in the context of corporate events | Any and all data types relevant in the circumstances | Legitimate Interests. We and any relevant third parties have a legitimate interest in providing information to relevant third parties who are involved in an actual or prospective corporate event (including to enable them to investigate - and, where relevant, to continue to operate - all or relevant part(s) of our operations). However, we would always look to take steps to minimize the amount and sensitivity of any personal information shared in these contexts where possible and appropriate. |
 | Research and development  To create aggregated, de-identified and/or anonymized data | Any and all data types relevant in the circumstances | Legitimate Interests. We have legitimate interest, and believe it is also in your interests, that we are able to take steps to ensure that our Services operate as intended. |
 | Further uses | Any and all data types relevant in the circumstances | The original legal basis relied upon, if the relevant further use is compatible with the initial purpose for which the Personal Information was collected.  Consent, if the relevant further use is not compatible with the initial purpose for which the personal information was collected. |
 
@@ -385,39 +395,39 @@ Under some State Privacy Laws, you may enable an authorized agent to make a requ
 
 <mark>Exercising These Rights. You may submit these requests by email to [EMAIL] or our postal address provided above. We may request specific information from you to help us confirm your identity and process your request. Whether or not we are required to fulfill any request you make will depend on a number of factors (e.g., why and how we are processing your personal information), if we reject any request you may make (whether in whole or in part) we will let you know our grounds for doing so at the time, subject to any legal restrictions.  </mark>
 
-<mark>Your Right to Lodge a Complaint with your Supervisory Authority. In addition to your rights outlined above, if you are not satisfied with our response to a request you make, or how we process your personal information, you can make a complaint to the data protection regulator in your habitual place of residence. </mark>
+<mark>Your Right to Lodge a Complaint with your Supervisory Authority. In addition to your rights outlined above, if you are not satisfied with our response to a request you make, or how we process your personal information, you can make a complaint to a data protection regulator: in the European Economic Area, to a supervisory authority, in particular the one in the country where you habitually reside or work or where the alleged infringement took place; in the UK, to the UK data protection regulator. If you consider that our processing of your personal information infringes the UK GDPR, you can also make a complaint to us, by email to [EMAIL] or at our postal address provided above. </mark>
 
-<mark>For users in the European Economic Area - the contact information for the data protection regulator in your place of residence can be found here: </mark>
+<mark>For users in the European Economic Area - the contact information for the data protection regulator in your place of residence can be found here: https://www.edpb.europa.eu/about-edpb/our-members_en</mark>
 
 <mark>For users in the UK - the contact information for the UK data protection regulator is below:</mark>
 
-<mark>The Information Commissioner's Office</mark>
+<mark>The Information Commission</mark>
 
-<mark>Water Lane, Wycliffe House</mark>
+<mark>4th Floor, No.3 Circle Square, 5 Hawkshaw Street</mark>
 
-<mark>Wilmslow - Cheshire SK9 5AF</mark>
+<mark>Manchester M1 7BL</mark>
 
 <mark>Tel. +44 303 123 1113</mark>
 
-<mark>Website: </mark>
+<mark>Website: https://ico.org.uk/make-a-complaint/</mark>
 <mark>Data Processing outside Europe  </mark>
 
 <mark>We are a U.S.-based company and many of our service providers, advisers, partners or other recipients of data are also based in the U.S. This means that, if you use the Service, your personal information will necessarily be accessed and processed in the U.S. It may also be provided to recipients in other countries outside Europe.  </mark>
 
-<mark>It is important to note that that the US is not the subject of an 'adequacy decision' under the GDPR - basically, this means that the U.S. legal regime is not considered by relevant European bodies to provide an adequate level of protection for personal information, which is equivalent to that provided by relevant European laws. </mark>
+<mark>It is important to note that the U.S. is the subject of an 'adequacy decision' under the EU GDPR only for transfers to organisations included in the Data Privacy Framework List maintained by the U.S. Department of Commerce, and that transfers from the UK to the U.S. are approved by regulations under the UK GDPR only for organisations that participate in the UK Extension to the EU-U.S. Data Privacy Framework - basically, this means that, for transfers to any other recipient in the U.S., the U.S. legal regime is not considered by relevant European bodies to provide an adequate level of protection for personal information, which is equivalent to that provided by relevant European laws. </mark>
 
 <mark>Where we share your personal information with third parties who are based outside Europe, we try to ensure a similar degree of protection is afforded to it by making sure one of the following mechanisms is implemented: </mark>
-1. <mark>Transfers to territories with an adequacy decision. We may transfer your personal information to countries or territories whose laws have been deemed to provide an adequate level of protection for personal information by the European Commission or UK Government (as and where applicable) (from time to time).</mark>
+1. <mark>Transfers to territories with an adequacy decision or UK approval. We may transfer your personal information to countries or territories whose laws have been deemed to provide an adequate level of protection for personal information by the European Commission, or transfers to which are approved by regulations made by the UK Government (as and where applicable) (from time to time).</mark>
 
-<mark>Transfers to territories without an adequacy decision. </mark>
+<mark>Transfers to territories without an adequacy decision or UK approval. </mark>
 
-<mark>We may transfer your personal information to countries or territories whose laws have not been deemed to provide such an adequate level of protection (e.g., the U.S., see above).  </mark>
+<mark>We may transfer your personal information to countries or territories whose laws have not been deemed to provide such an adequate level of protection, or transfers to which are not so approved (e.g., the U.S., for recipients outside the EU-U.S. Data Privacy Framework or, for transfers from the UK, outside its UK Extension, see above).  </mark>
 
 <mark>However, in these cases:</mark>
 
 <mark>we may use specific appropriate safeguards, which are designed to give personal information effectively the same protection it has in Europe - for example, standard-form contracts approved by relevant authorities for this purpose; or </mark>
 
-<mark>in limited circumstances, we may rely on an exception, or 'derogation', which permits us to transfer your personal information to such country despite the absence of an 'adequacy decision' or 'appropriate safeguards' - for example, reliance on your explicit consent to that transfer. </mark>
+<mark>in limited circumstances, we may rely on an exception, or 'derogation', which permits us to transfer your personal information to such country despite the absence of an 'adequacy decision' (or, for the UK, approval by regulations) or 'appropriate safeguards' - for example, reliance on your explicit consent to that transfer. </mark>
 
 <mark>You may contact us if you want further information on the specific mechanism used by us when transferring your personal information out of Europe. You may have the right to receive a copy of the appropriate safeguards under which your personal information is transferred by contacting us at [EMAIL].</mark>
 
