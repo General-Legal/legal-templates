@@ -117,7 +117,7 @@ A anonimização observará o art. 12 da LGPD. A remoção de nomes ou substitui
 
 A etapa de anonimização exige finalidade, hipótese legal e responsabilidades documentadas, com instruções da Instituição quando executada em seu nome. Se a Symbios determinar finalidade própria enquanto os dados ainda forem pessoais, deverá ser definido previamente seu papel e o fundamento dessa operação.
 
-Antes do uso para melhorias ou treinamentos, serão avaliados os riscos de associação a indivíduos considerando identificadores diretos e indiretos, informações auxiliares, meios próprios e esforços razoáveis. O fluxo de validação, a segregação dos ambientes, os intermediários e sua eliminação constarão do Anexo IV do DPA. Os ambientes de melhoria e treinamento não terão acesso às chaves e bases pessoais de origem.
+Antes do uso para melhorias ou treinamentos, serão avaliados os riscos de associação a indivíduos considerando identificadores diretos e indiretos, informações auxiliares, meios próprios e esforços razoáveis. O fluxo de validação, a segregação dos ambientes, os intermediários e sua eliminação seguem a seção 5 do DPA. Os ambientes de melhoria e treinamento não terão acesso às chaves e bases pessoais de origem.
 
 Não utilizaremos dados identificados ou apenas pseudonimizados de pacientes para essas finalidades. Também não tentaremos reidentificar os conjuntos liberados nem autorizaremos terceiros a fazê-lo. Se os dados ou as saídas de um modelo permitirem associação razoável a um indivíduo, não serão tratados como anônimos e o uso correspondente deverá ser suspenso até regularização.
 
@@ -143,7 +143,7 @@ Ao definir os prazos, consideramos natureza e sensibilidade dos dados, quantidad
 
 Os dados ficam armazenados por padrão em nuvem. A infraestrutura pode envolver mais de um provedor e diferentes regiões, inclusive para armazenamento principal, backup, recuperação e suporte, conforme a funcionalidade, a categoria de dados e as necessidades de disponibilidade e segurança do Serviço.
 
-Atualmente, a nuvem é fornecida pelo Google, com armazenamento nos Estados Unidos. Essa configuração pode mudar. Os provedores e as localidades em uso constarão da lista de fornecedores da seção 5.2 e do Anexo II do DPA. Mudanças materiais nesta Política serão comunicadas conforme a seção 11.
+Os provedores e as localidades em uso constam da lista de fornecedores da seção 5.2 e podem mudar. Mudanças materiais nesta Política serão comunicadas conforme a seção 11.
 
 Pode haver armazenamento temporário no computador do Usuário. Exportações voluntárias da Instituição deverão ser protegidas e geridas por ela, conforme sua finalidade e seus prazos.
 
@@ -177,6 +177,14 @@ Dados identificáveis de pacientes não serão publicados por padrão. Aulas, de
 ### 5.2. Prestadores de serviços
 
 Podemos compartilhar os dados necessários com fornecedores que executem funções como hospedagem, backup, autenticação, suporte, segurança e comunicação, quando efetivamente utilizados. Esses fornecedores deverão estar sujeitos a obrigações de confidencialidade, segurança, finalidade e retenção compatíveis com os serviços e com a legislação.
+
+Fornecedores com acesso a dados pessoais, inclusive suboperadores de dados tratados em nome da Instituição:
+
+| Fornecedor | Serviço | Dados | Local |
+| --- | --- | --- | --- |
+| Google | Hospedagem em nuvem e backup | Todos os dados armazenados no Serviço, inclusive dados de saúde de pacientes | Estados Unidos |
+
+Esta lista será atualizada antes da inclusão ou substituição de fornecedores, conforme a seção 11 e o DPA.
 
 ### 5.3. Destinatários indicados e serviços conectados
 
@@ -256,7 +264,7 @@ Atualmente, os dados armazenados em nuvem, inclusive dados sensíveis de saúde 
 
 Transferências internacionais dependerão de base legal para o tratamento e mecanismo válido nos termos do art. 33 da LGPD e da Resolução CD/ANPD nº 19/2024. Na ausência de decisão de adequação da ANPD aplicável aos Estados Unidos, será utilizado outro mecanismo do art. 33.
 
-Se o provedor ou o país de armazenamento mudar, esta seção, a seção 4.1 e o Anexo II do DPA serão atualizados, e o novo fluxo somente terá início com mecanismo válido e após a comunicação prevista no DPA.
+Se o provedor ou o país de armazenamento mudar, esta seção e a lista da seção 5.2 serão atualizadas, e o novo fluxo somente terá início com mecanismo válido e após a comunicação prevista no DPA.
 
 Quando forem utilizadas cláusulas-padrão da ANPD, elas integrarão o instrumento entre exportador e importador integralmente e sem alteração, com os campos pertinentes preenchidos. O DPA e esta Política não substituem a celebração desse instrumento. Cláusulas estrangeiras não são automaticamente equivalentes às brasileiras.
 
@@ -305,7 +313,7 @@ Quando atuamos como operadora, os avisos da Instituição complementam esta Pol�
 Tratamos dados pessoais com fundamento nas hipóteses legais da LGPD, conforme cada finalidade:
 
 - **Contas, contatos e relação contratual:** execução de contrato e legítimo interesse.
-- **Atividades institucionais e dados de pacientes:** hipóteses definidas pela Instituição, como estudos por órgão de pesquisa ou consentimento, registradas no DPA.
+- **Atividades institucionais e dados de pacientes:** hipóteses definidas pela Instituição, como estudos por órgão de pesquisa ou consentimento.
 - **Segurança, suporte, obrigações legais e defesa de direitos:** cumprimento de obrigação legal, exercício regular de direitos e legítimo interesse.
 - **Comunicações comerciais e cookies opcionais:** consentimento, que pode ser revogado a qualquer momento.
 

@@ -90,7 +90,7 @@ O uso de nome, marca, imagem ou depoimento da Instituição ou de participantes 
 
 A Política de Privacidade descreve os dados tratados, suas finalidades, bases legais, compartilhamentos, retenção e direitos. URL pública: www.symbios.com.br/privacy-policy.
 
-O [Acordo de Tratamento de Dados — DPA](acordo-de-tratamento-de-dados.md) disciplina as operações realizadas pela Symbios em nome da Instituição e será disponibilizado à contratante por **[PREENCHER: meio de disponibilização do DPA ou URL, quando público]**.
+O [Acordo de Tratamento de Dados — DPA](acordo-de-tratamento-de-dados.md) disciplina as operações realizadas pela Symbios em nome da Instituição e é aceito pela Instituição ao contratar o Serviço. URL pública: www.symbios.com.br/dpa.
 
 ### 3.1. Tratamento de dados pessoais
 

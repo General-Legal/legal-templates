@@ -63,10 +63,10 @@ A licença proposta cobre ensino e pesquisa institucional com supervisão. Não 
 
 Para publicar a versão aprovada no aplicativo, ou uma nova versão depois, siga o [guia de publicação e atualização dos Termos de Uso](../../docs/terms-of-use-deploy-and-update.md): configuração inicial por ambiente, upload, troca da versão vigente, teste, rollback e solução de problemas.
 
-1. Resolver todos os campos `[PREENCHER: ...]` e `[VALIDAR: ...]` e preencher os anexos do DPA para cada instituição/projeto.
+1. Resolver todos os campos `[PREENCHER: ...]` e `[VALIDAR: ...]`.
 2. Confrontar os textos com o inventário e com os controles efetivos, inclusive cache, exportações, telemetria e fornecedores. Ajustar o produto ou a obrigação antes de assumir compromissos.
 3. Revisar juridicamente o enquadramento acadêmico, as bases legais e o uso de dados de saúde. A LGPD não fica integralmente afastada pelo nome da licença.
-4. Aprovar e publicar os documentos com data de vigência, links definitivos e histórico de versões; assinar o DPA quando a Symbios tratar dados em nome da instituição.
+4. Aprovar e publicar os documentos com data de vigência, links definitivos e histórico de versões. O DPA é publicado em www.symbios.com.br/dpa e aceito na contratação; a via assinada é fornecida apenas quando a instituição solicitar.
 
 Aceitar os Termos, conhecer a Política e consentir com um tratamento são atos distintos. Nenhum desses documentos substitui o protocolo de pesquisa, o TCLE ou o aviso específico da instituição quando necessários.
 
