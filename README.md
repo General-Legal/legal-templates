@@ -1,3 +1,19 @@
+# Symbios — documentos jurídicos da versão acadêmica
+
+Minutas em português, adaptadas para o contexto brasileiro a partir dos modelos General Legal (CC0).
+
+- [Termos de Uso Acadêmico](documentos/academico/termos-de-uso.md)
+- [Política de Privacidade e Proteção de Dados](documentos/academico/politica-de-privacidade.md)
+- [Acordo de Tratamento de Dados — DPA](documentos/academico/acordo-de-tratamento-de-dados.md)
+- [Resumo, premissas e pendências](documentos/academico/README.md)
+- [Comparação de modelos e fontes jurídicas](documentos/academico/fontes-e-modelos.md)
+
+**Status: versão 0.1, de 29/10/2026, para revisão.** Os campos `[PREENCHER: ...]` e `[VALIDAR: ...]` precisam ser resolvidos antes da publicação ou assinatura. As minutas consideram dados reais de pacientes, nuvem como armazenamento padrão, armazenamento local temporário e acesso pela Symbios. Melhorias e treinamentos somente podem usar dados efetivamente anonimizados, nas condições descritas nos documentos.
+
+Os modelos originais e sua licença estão preservados abaixo e nas pastas de origem. A licença dos textos jurídicos não concede licença sobre o software ou as marcas Symbios.
+
+---
+
 # Legal Templates
 
 Attorney-drafted legal templates for startups and technology companies. Created by the attorneys at [General Legal](https://general.legal) and released under [CC0 1.0](LICENSE). Free for anyone to use, modify, and distribute for any purpose, without attribution.
