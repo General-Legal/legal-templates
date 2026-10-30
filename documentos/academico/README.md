@@ -61,7 +61,7 @@ A licença proposta cobre ensino e pesquisa institucional com supervisão. Não 
 
 ## Como finalizar
 
-Para publicar a versão aprovada no aplicativo, siga o [guia de deployment dos Termos de Uso](../../docs/deploy-terms-of-use.md), com configuração por ambiente, upload, ativação da versão, verificação e rollback.
+Para publicar a versão aprovada no aplicativo, ou uma nova versão depois, siga o [guia de publicação e atualização dos Termos de Uso](../../docs/terms-of-use-deploy-and-update.md): configuração inicial por ambiente, upload, troca da versão vigente, teste, rollback e solução de problemas.
 
 1. Resolver todos os campos `[PREENCHER: ...]` e `[VALIDAR: ...]` e preencher os anexos do DPA para cada instituição/projeto.
 2. Confrontar os textos com o inventário e com os controles efetivos, inclusive cache, exportações, telemetria e fornecedores. Ajustar o produto ou a obrigação antes de assumir compromissos.

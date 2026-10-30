@@ -7,7 +7,7 @@ Minutas em português, adaptadas para o contexto brasileiro a partir dos modelos
 - [Acordo de Tratamento de Dados — DPA](documentos/academico/acordo-de-tratamento-de-dados.md)
 - [Resumo, premissas e pendências](documentos/academico/README.md)
 - [Comparação de modelos e fontes jurídicas](documentos/academico/fontes-e-modelos.md)
-- [Deployment guide — Terms of Use versions](docs/deploy-terms-of-use.md)
+- [Terms of Use — deploying and updating](docs/terms-of-use-deploy-and-update.md)
 
 **Status: versão 0.1, de 29/10/2026, para revisão.** Os campos `[PREENCHER: ...]` e `[VALIDAR: ...]` precisam ser resolvidos antes da publicação ou assinatura. As minutas consideram dados reais de pacientes, nuvem como armazenamento padrão, armazenamento local temporário e acesso pela Symbios. Melhorias e treinamentos somente podem usar dados efetivamente anonimizados, nas condições descritas nos documentos.
 

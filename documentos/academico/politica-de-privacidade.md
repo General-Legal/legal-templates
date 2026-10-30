@@ -8,7 +8,7 @@ Esta Política descreve como tratamos os dados pessoais coletados por meio do Om
 
 **Instituição** é a entidade adquirente ou titular da licença de uso do sistema; **Usuário** é a pessoa autorizada a acessá-lo e utilizá-lo; e **Participante** é a pessoa cujos dados sejam tratados nas atividades realizadas com o sistema.
 
-A versão acadêmica utiliza dados reais de pacientes. O armazenamento padrão é em nuvem, pode haver armazenamento temporário no computador do Usuário e a Symbios pode acessar os dados para as operações descritas nesta Política. Melhorias e treinamentos próprios da Symbios somente poderão utilizar dados efetivamente anonimizados, conforme a seção 3.4.
+A versão acadêmica utiliza dados reais de pacientes. O armazenamento padrão é em nuvem, atualmente nos Estados Unidos (seções 4.1 e 9), pode haver armazenamento temporário no computador do Usuário e a Symbios pode acessar os dados para as operações descritas nesta Política. Melhorias e treinamentos próprios da Symbios somente poderão utilizar dados efetivamente anonimizados, conforme a seção 3.4.
 
 Esta Política complementa os [Termos de Uso](termos-de-uso.md). O [Acordo de Tratamento de Dados — DPA](acordo-de-tratamento-de-dados.md) disciplina as operações realizadas em nome da Instituição. As responsabilidades de cada agente, as bases legais e os direitos estão na seção 13.
 
@@ -111,7 +111,7 @@ O tratamento de dados sensíveis nessas operações depende de hipótese especí
 
 ### 3.4. Melhorias, análises e treinamentos com dados anonimizados
 
-Podemos utilizar dados **efetivamente anonimizados** para analisar e melhorar o Serviço e realizar treinamentos, inclusive de modelos de inteligência artificial quando essa finalidade estiver definida no fluxo autorizado. **[PREENCHER: melhorias, análises e tipos de treinamento efetivamente abrangidos, conjuntos utilizados e destinatários].**
+Podemos utilizar dados **efetivamente anonimizados** para analisar e melhorar o Serviço e realizar treinamentos, inclusive de modelos de inteligência artificial.
 
 A anonimização observará o art. 12 da LGPD. A remoção de nomes ou substituição por códigos não basta, por si só: dados pseudonimizados continuam sujeitos à proteção de dados pessoais.
 
@@ -124,8 +124,6 @@ Não utilizaremos dados identificados ou apenas pseudonimizados de pacientes par
 O compartilhamento de conjuntos efetivamente anonimizados deverá observar as finalidades, os destinatários e as condições documentadas para esse fluxo. Não há autorização geral de redistribuição de bases.
 
 ### 3.5. Comunicações comerciais e outras atividades opcionais
-
-**[VALIDAR: existência de marketing direto, eventos, pesquisas de satisfação ou outras atividades opcionais; descrever dados, finalidade, base legal e forma de oposição/revogação, ou excluir os itens não aplicáveis].**
 
 Se houver comunicações comerciais, serão tratadas separadamente das comunicações necessárias ao Serviço e permitirão descadastramento conforme a seção 6.2. Não utilizaremos dados de pacientes para publicidade direcionada nem venderemos dados pessoais de pacientes.
 
@@ -143,19 +141,21 @@ Ao definir os prazos, consideramos natureza e sensibilidade dos dados, quantidad
 
 ### 4.1. Nuvem e cópias locais
 
-Os dados ficam armazenados por padrão em nuvem. **[PREENCHER: provedor e entidade contratada, regiões/países de armazenamento e backup e países de acesso de suporte].**
+Os dados ficam armazenados por padrão em nuvem. A infraestrutura pode envolver mais de um provedor e diferentes regiões, inclusive para armazenamento principal, backup, recuperação e suporte, conforme a funcionalidade, a categoria de dados e as necessidades de disponibilidade e segurança do Serviço.
 
-Pode haver armazenamento temporário no computador do Usuário. **[PREENCHER: funcionamento do cache, ambiente, proteção, sincronização, prazo máximo e eventos de exclusão, inclusive falhas, logout e desinstalação].** Exportações voluntárias da Instituição deverão ser protegidas e geridas por ela, conforme sua finalidade e seus prazos.
+Atualmente, a nuvem é fornecida pelo Google, com armazenamento nos Estados Unidos. Essa configuração pode mudar. Os provedores e as localidades em uso constarão da lista de fornecedores da seção 5.2 e do Anexo II do DPA. Mudanças materiais nesta Política serão comunicadas conforme a seção 11.
+
+Pode haver armazenamento temporário no computador do Usuário. Exportações voluntárias da Instituição deverão ser protegidas e geridas por ela, conforme sua finalidade e seus prazos.
 
 ### 4.2. Prazos e destinação
 
-| Categoria | Critério e prazo a completar |
+| Categoria | Critério e prazo |
 | --- | --- |
-| Contas e contatos institucionais | Durante a relação e, depois, pelo período justificado de [PREENCHER: prazo e finalidade da conservação]. |
-| Dados de pacientes, sessões e atividades | Conforme o projeto e o DPA: [PREENCHER: prazo, marco inicial e responsável]. Avaliar separadamente eventual guarda obrigatória de registros assistenciais. |
-| Registros técnicos, segurança e suporte | [PREENCHER: prazos por categoria e obrigação aplicável, inclusive registros de acesso quando exigidos]. |
-| Cópias temporárias locais e intermediários de anonimização | [PREENCHER: prazos máximos e eventos de eliminação]. |
-| Sistemas ativos e backups após encerramento | [PREENCHER: prazo de exportação/devolução, exclusão ativa e ciclo máximo de expurgo de backups]. |
+| Dados de pacientes, sessões e atividades | Enquanto vigente a contratação; no encerramento, conforme a última linha. Eventual guarda legal exigida da Instituição, como em pesquisas ou prontuários, é de sua responsabilidade, mediante exportação ou contratação específica. |
+| Cadastro de usuários, cópias temporárias locais, intermediários de anonimização e anexos de suporte com dados de pacientes | **30 dias** após o encerramento da conta, a sincronização, a validação do conjunto ou o fechamento do chamado, conforme o caso. |
+| Registros de acesso, segurança e auditoria | **6 meses** (art. 15 do Marco Civil da Internet), ou enquanto durar apuração, incidente ou ordem de autoridade. |
+| Contratos, documentos fiscais, chamados de suporte, registros de consentimento e de incidentes | **5 anos** após o término da relação ou do registro, para cumprimento de obrigações legais e exercício de direitos. |
+| Encerramento da contratação | Exportação ou devolução em até **30 dias**, exclusão dos sistemas ativos nos **30 dias** seguintes e eliminação dos backups em até **6 meses**. |
 | Conjuntos efetivamente anonimizados | Para as finalidades da seção 3.4, enquanto mantida a anonimização e nas condições do fluxo autorizado, inclusive quanto à conservação após encerramento prevista no DPA. |
 
 Quando os dados pessoais deixarem de ser necessários, serão eliminados, devolvidos ou anonimizados conforme instruções válidas e arts. 15 e 16 da LGPD. A anonimização para melhorias e treinamentos dependerá também da seção 3.4.
@@ -178,13 +178,9 @@ Dados identificáveis de pacientes não serão publicados por padrão. Aulas, de
 
 Podemos compartilhar os dados necessários com fornecedores que executem funções como hospedagem, backup, autenticação, suporte, segurança e comunicação, quando efetivamente utilizados. Esses fornecedores deverão estar sujeitos a obrigações de confidencialidade, segurança, finalidade e retenção compatíveis com os serviços e com a legislação.
 
-**[PREENCHER: entidades, serviços, dados acessíveis, localidades e lista pública de fornecedores, em coerência com o Anexo II do DPA].** A ausência de preenchimento não significa ausência de fornecedores.
-
 ### 5.3. Destinatários indicados e serviços conectados
 
-Dados podem ser enviados a destinatários ou integrações indicados pela Instituição ou pelo Usuário dentro de suas permissões, com fundamento legal e informação adequada. Serviços contratados diretamente por esses destinatários podem ter políticas próprias. O acionamento de uma integração não autoriza compartilhar dados de terceiros sem fundamento válido.
-
-**[PREENCHER: integrações e destinatários efetivos, quando existentes].**
+Dados podem ser enviados a destinatários ou integrações indicados pela Instituição ou pelo Usuário dentro de suas permissões, com fundamento legal e informação adequada. Serviços contratados diretamente por esses destinatários podem ter políticas próprias. O acionamento de uma integração não autoriza compartilhar dados de terceiros sem fundamento válido
 
 ### 5.4. Assessores profissionais, autoridades e proteção de direitos
 
@@ -200,7 +196,7 @@ Essa previsão não constitui autorização para vender bases pessoais de pacien
 
 ### 5.6. Outras hipóteses
 
-Outros compartilhamentos dependerão de fundamento jurídico específico e transparência, com consentimento quando necessário. Conjuntos efetivamente anonimizados seguirão a seção 3.4. **[VALIDAR: existência de outros destinatários, incluindo empresas relacionadas, antes de incluí-los na versão publicada].**
+Outros compartilhamentos dependerão de fundamento jurídico específico e transparência, com consentimento quando necessário. Conjuntos efetivamente anonimizados seguirão a seção 3.4.
 
 ## 6. Suas escolhas
 
@@ -216,7 +212,7 @@ Se houver envio de comunicações comerciais, você poderá solicitar descadastr
 
 Você poderá gerenciar cookies e tecnologias opcionais pelo mecanismo informado na seção 2 e pelas configurações disponíveis no navegador ou dispositivo. Quando houver integração com serviços externos, suas configurações podem limitar os dados compartilhados.
 
-**[PREENCHER: preferências efetivamente disponíveis, permissões do dispositivo e tratamento de sinais de privacidade do navegador, quando aplicáveis].** A revogação não desfaz automaticamente tratamentos anteriores lícitos, e certas funcionalidades podem ficar indisponíveis.
+ A revogação não desfaz automaticamente tratamentos anteriores lícitos, e certas funcionalidades podem ficar indisponíveis.
 
 ### 6.4. Recusa em fornecer dados
 
@@ -246,7 +242,7 @@ A segurança dos dados observará o art. 46 da Lei nº 13.709/2018 (LGPD). Adota
 
 Riscos são inerentes às tecnologias de informação e não garantimos segurança absoluta nem ausência de vulnerabilidades, vírus ou outros componentes nocivos, observado o art. 46 da LGPD.
 
-**[PREENCHER: descrição fiel dos controles efetivamente adotados de acesso, autenticação, criptografia, segregação, registros, backups, atualizações e resposta a incidentes].** Não se presume certificação ou implementação de controle não verificado.
+Não se presume certificação ou implementação de controle não verificado.
 
 A Instituição e os usuários deverão proteger credenciais, equipamentos e exportações sob seu controle. O acesso da equipe Symbios a dados pessoais será restrito às pessoas autorizadas e ao necessário às finalidades aplicáveis, com confidencialidade e rastreabilidade conforme o DPA.
 
@@ -256,17 +252,17 @@ Suspeitas de incidente poderão ser comunicadas a **privacy@symbios.com.br**. Co
 
 A Symbios está sediada no Brasil. A localização dos fornecedores, os acessos remotos e a infraestrutura utilizada poderão envolver tratamento ou transferência de dados para outros países, conforme o fluxo efetivo.
 
-**[PREENCHER: confirmar a existência de transferências; identificar exportador, destinatários/importadores, países de armazenamento, backup e acesso, dados, finalidade, duração e eventuais transferências posteriores].**
+Atualmente, os dados armazenados em nuvem, inclusive dados sensíveis de saúde de pacientes, são transferidos para os Estados Unidos, onde ficam hospedados pelo Google para a prestação do Serviço, enquanto durar o tratamento e os prazos de retenção da seção 4.
 
-Transferências internacionais dependerão de base legal para o tratamento e mecanismo válido nos termos do art. 33 da LGPD e da Resolução CD/ANPD nº 19/2024. **[PREENCHER: mecanismo efetivamente adotado e instrumento correspondente para cada fluxo].**
+Transferências internacionais dependerão de base legal para o tratamento e mecanismo válido nos termos do art. 33 da LGPD e da Resolução CD/ANPD nº 19/2024. Na ausência de decisão de adequação da ANPD aplicável aos Estados Unidos, será utilizado outro mecanismo do art. 33.
+
+Se o provedor ou o país de armazenamento mudar, esta seção, a seção 4.1 e o Anexo II do DPA serão atualizados, e o novo fluxo somente terá início com mecanismo válido e após a comunicação prevista no DPA.
 
 Quando forem utilizadas cláusulas-padrão da ANPD, elas integrarão o instrumento entre exportador e importador integralmente e sem alteração, com os campos pertinentes preenchidos. O DPA e esta Política não substituem a celebração desse instrumento. Cláusulas estrangeiras não são automaticamente equivalentes às brasileiras.
 
 Informações e cópia das garantias aplicáveis poderão ser solicitadas pelo canal de privacidade, observados os prazos e limites legais de sigilo.
 
 ## 10. Crianças e adolescentes
-
-**[VALIDAR: existência de usuários ou participantes menores de idade; identificar faixas etárias, fluxo e requisitos aplicáveis].**
 
 A eventual participação de crianças e adolescentes como pacientes ou participantes é distinta da autorização para manter uma conta de usuário. Seu tratamento de dados observará o melhor interesse e o art. 14 da LGPD, com informações adequadas à idade, base legal válida e consentimento do responsável quando exigido, além das exigências éticas e demais normas aplicáveis.
 
@@ -291,9 +287,6 @@ Para dúvidas, informações ou exercício de direitos:
 - **E-mail de privacidade:** privacy@symbios.com.br.
 - **Endereço:** Av. Rio Branco, 1305, sala 103, Vitória, ES.
 - **Suporte e contas:** suporte@symbios.com.br.
-- **Encarregado:** [PREENCHER: identificação e contato público, ou validar eventual dispensa aplicável e informar o canal substituto].
-
-Solicitações sobre atividades da Instituição também poderão ser enviadas a **[PREENCHER: forma de identificar a Instituição responsável, seu aviso específico e seu contato de privacidade no ambiente/projeto e nas informações ao participante]**.
 
 ## 13. Aviso aos titulares — bases legais e direitos na LGPD
 
@@ -309,22 +302,16 @@ Quando atuamos como operadora, os avisos da Instituição complementam esta Pol�
 
 ### 13.2. Bases legais
 
-**[VALIDAR: confirmar a base de cada operação no inventário antes do tratamento; preencher os itens condicionais e remover hipóteses inaplicáveis].**
+Tratamos dados pessoais com fundamento nas hipóteses legais da LGPD, conforme cada finalidade:
 
-| Finalidade | Categorias e responsável | Hipótese legal e condição |
-| --- | --- | --- |
-| Gestão de contas, contatos e relação contratual | Contato, perfil, acesso, comunicação e dados contratuais; Symbios nas decisões próprias. | Art. 7º, V, quando o titular for parte do contrato ou solicitar medidas prévias; para representantes e usuários que não sejam partes, avaliar art. 7º, IX, com análise documentada dos requisitos. [VALIDAR: enquadramento por grupo]. |
-| Execução de atividades institucionais com dados comuns | Dados de participantes, dados demográficos, conteúdo de campos livres e registros de atividades ou multimídia que não sejam sensíveis; Instituição decide e Symbios executa instruções. | [PREENCHER: hipótese do art. 7º por finalidade]. Art. 7º, IV, somente se houver estudo por órgão de pesquisa que cumpra os requisitos legais; fora disso, selecionar outra hipótese válida. |
-| Tratamento de saúde, biometria e outros dados sensíveis | Dados de pacientes, sessões, métricas, movimento, sensores, imagens, áudio, vídeo e conteúdo de campos livres que revelem saúde ou outros dados sensíveis, além de biometria vinculada à pessoa; Instituição decide e Symbios executa instruções, conforme a operação. | [PREENCHER: hipótese do art. 11 por finalidade]. Art. 11, II, c, para estudo por órgão de pesquisa qualificado; art. 11, I, para consentimento específico e destacado, quando adequado; ou outra hipótese cujos requisitos estejam efetivamente presentes. |
-| Segurança, prevenção de ilícitos e suporte | Dados de acesso, dispositivos, uso, comunicação e, quando indispensáveis, dados de participantes; papel conforme a operação. | Para dados comuns, art. 7º, II ou IX, conforme obrigação ou avaliação de legítimo interesse. Dados sensíveis exigem hipótese própria do art. 11 e instrução válida quando a Symbios for operadora. [PREENCHER: enquadramento concreto]. |
-| Obrigações legais e exercício de direitos | Dados estritamente necessários à obrigação ou ao direito; agente responsável pela operação. | Art. 7º, II ou VI; para dados sensíveis indispensáveis, art. 11, II, a ou d, conforme o caso. |
-| Anonimização para posterior melhoria e treinamento | Conjuntos especificados no fluxo; papel conforme a decisão e a finalidade da etapa pessoal. | [PREENCHER: hipótese válida dos arts. 7º/11, necessidade, compatibilidade, agente responsável e instruções, conforme a seção 3.4]. O uso posterior depende de anonimização efetiva na forma do art. 12. |
-| Gestão de preferências de comunicação comercial e cookies opcionais ou envio de mensagens, quando utilizados | Preferências, registros de consentimento, oposição e descadastramento e demais dados estritamente necessários à finalidade; Symbios nas decisões próprias. | [PREENCHER: base válida por finalidade]. Recursos baseados em consentimento observarão o art. 7º, I; eventual legítimo interesse para dados comuns depende de avaliação dos arts. 7º, IX, e 10. |
-| Operações societárias | Dados estritamente necessários à operação e à continuidade do Serviço; papel e destinatários conforme o fluxo. | [PREENCHER: hipótese legal e justificativa por fluxo]. Para dados comuns, avaliar arts. 7º, II, V, VI ou IX conforme os requisitos presentes; dados sensíveis dependem de hipótese do art. 11 e de suas restrições específicas. |
+- **Contas, contatos e relação contratual:** execução de contrato e legítimo interesse.
+- **Atividades institucionais e dados de pacientes:** hipóteses definidas pela Instituição, como estudos por órgão de pesquisa ou consentimento, registradas no DPA.
+- **Segurança, suporte, obrigações legais e defesa de direitos:** cumprimento de obrigação legal, exercício regular de direitos e legítimo interesse.
+- **Comunicações comerciais e cookies opcionais:** consentimento, que pode ser revogado a qualquer momento.
 
-Legítimo interesse e simples execução contratual não constituem autorização geral para tratar dados sensíveis. A hipótese de tutela da saúde depende dos requisitos do art. 11, II, f; a de estudos por órgão de pesquisa depende do enquadramento do art. 5º, XVIII.
+Dados sensíveis, como saúde e biometria, somente serão tratados nas hipóteses específicas da LGPD para essa categoria. O aceite dos Termos e a ciência desta Política não substituem o consentimento quando exigido.
 
-O regime do art. 4º, II, b, para fins exclusivamente acadêmicos depende da atividade concreta e preserva os arts. 7º e 11. Não será estendido genericamente às finalidades empresariais da Symbios. O aceite dos Termos e a ciência desta Política não substituem hipótese legal ou consentimento específico quando exigido.
+Também observamos, conforme o caso, o Marco Civil da Internet, as resoluções da ANPD e as normas do Conselho Nacional de Saúde sobre ética em pesquisa com seres humanos.
 
 ### 13.3. Seus direitos
 
@@ -353,6 +340,4 @@ Se não for possível atender integralmente, informaremos os fundamentos e as pr
 
 ### 13.5. Dados sensíveis e decisões automatizadas
 
-Dados reais de saúde fazem parte das atividades abrangidas pelo Serviço, conforme a seção 1. O tratamento fica limitado às finalidades, bases legais e permissões aplicáveis, sem autorização para coleta indiscriminada de outras categorias sensíveis.
-
-**[PREENCHER: informar se existem decisões unicamente automatizadas que afetem interesses dos titulares; descrever as operações, critérios gerais e canal de revisão, ou declarar ausência após verificação].** Métricas e recomendações deverão ser avaliadas conforme suas funcionalidades e efeitos concretos.
+Dados reais de saúde fazem parte das atividades abrangidas pelo Serviço, conforme a seção 1. O tratamento fica limitado às finalidades, bases legais e permissões aplicáveis, sem autorização para coleta indiscriminada de outras categorias sensíveis.Métricas e recomendações deverão ser avaliadas conforme suas funcionalidades e efeitos concretos.

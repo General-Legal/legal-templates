@@ -54,7 +54,7 @@ Se a avaliação falhar ou surgirem riscos razoáveis de reidentificação, o co
 
 A contratação de suboperadores com acesso a dados pessoais depende de autorização documentada da Controladora. Os inicialmente autorizados constarão do Anexo II, com entidade, função, dados e localidades. Lista não preenchida não autoriza fornecedores desconhecidos.
 
-Novos suboperadores ou mudanças materiais serão comunicados com antecedência de **[PREENCHER: prazo de aviso e de objeção]**, com informação suficiente para avaliar proteção de dados. Objeções fundamentadas serão tratadas antes do início do novo acesso; sem solução, as partes definirão alternativa ou encerrarão o fluxo afetado com devolução/eliminação segura.
+Novos suboperadores ou mudanças materiais, inclusive substituição de provedor de nuvem e alteração do país de armazenamento, backup ou acesso, serão comunicados com antecedência de **[PREENCHER: prazo de aviso e de objeção]**, com informação suficiente para avaliar proteção de dados. Mudanças de região dentro do mesmo país e do mesmo provedor serão registradas no Anexo II e informadas à Controladora quando solicitado. Objeções fundamentadas serão tratadas antes do início do novo acesso; sem solução, as partes definirão alternativa ou encerrarão o fluxo afetado com devolução/eliminação segura.
 
 A Operadora imporá por contrato obrigações de finalidade, confidencialidade, segurança, incidentes, atendimento a direitos, exclusão e transferências compatíveis com este Acordo. Permanecerá responsável perante a Controladora pelas obrigações subcontratadas, sem afastar a responsabilidade legal de cada agente.
 
@@ -120,8 +120,8 @@ Em conflito sobre proteção de dados, prevalece este Acordo sobre os instrument
 | Protocolo, ética, avisos e consentimentos aplicáveis | [PREENCHER] |
 | Operações autorizadas e frequência | [PREENCHER: coleta, armazenamento, processamento, consulta, exportação etc.] |
 | Nuvem, cópias locais e exportações | [PREENCHER: arquitetura, fluxo, responsáveis, proteção, sincronização e eliminação] |
-| Retenção por categoria e marco inicial | [PREENCHER: contas, pacientes, sessões, suporte, logs, cache, intermediários e backups] |
-| Encerramento | [PREENCHER: formato e canal de devolução, prazo de exportação e exclusão ativa, ciclo máximo de backup e certificado de eliminação] |
+| Retenção por categoria e marco inicial | Conforme a tabela da seção 4.2 da Política de Privacidade, salvo instrução diversa da Controladora registrada aqui: [PREENCHER: prazos específicos do projeto, se houver]. A guarda legal de dados de pesquisa ou prontuários exigida da Controladora é de sua responsabilidade, mediante exportação ou contratação específica de custódia. |
+| Encerramento | Exportação ou devolução em até 30 dias, em [PREENCHER: formato e canal]; exclusão dos sistemas ativos nos 30 dias seguintes; eliminação dos backups em até 6 meses, com certificado de eliminação ao final. |
 | Contato de privacidade da Controladora | [PREENCHER: nome/função, e-mail e telefone] |
 | Contato de privacidade da Symbios | privacy@symbios.com.br; [PREENCHER: responsável/função] |
 | Canais de urgência para incidentes | [PREENCHER: responsáveis e contatos de escalonamento de ambas as partes, com disponibilidade definida] |
@@ -132,6 +132,7 @@ Preencher uma linha por fornecedor e por fluxo distinto, incluindo hospedagem, b
 
 | Entidade e identificação | Serviço, dados e finalidade | Países de armazenamento/backup/acesso e duração | Autorização e mecanismo internacional/instrumento, se aplicável |
 | --- | --- | --- | --- |
+| Google — [VALIDAR: entidade contratada e serviço utilizado] | Hospedagem em nuvem e backup de todos os dados do Serviço, inclusive dados sensíveis de saúde, para prestação do Serviço | Estados Unidos — [VALIDAR: regiões de armazenamento e backup e países de acesso de suporte]; durante o tratamento e os prazos do Anexo I | [PREENCHER: autorização da Controladora e mecanismo do art. 33 da LGPD — p. ex. cláusulas-padrão da ANPD —, exportador, importador e instrumento] |
 | [PREENCHER] | [PREENCHER] | [PREENCHER] | [PREENCHER] |
 
 ## Anexo III — Medidas de segurança e evidências

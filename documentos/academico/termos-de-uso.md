@@ -1,6 +1,6 @@
 # Termos de Uso - OmniRehab Symbios
 
-**Versão:** 0.1 · **Elaboração:** 29/10/2026
+**Versão:** 0.2 · **Elaboração:** 30/10/2026
 
 O software **OmniRehab** é disponibilizado pela **Symbios Tecnologias Assistivas LTDA**, CNPJ **43.698.052/0001-96**, com endereço em Av. Rio Branco, 1305, sala 103, Vitória, ES, doravante **Symbios**. Estes Termos de Uso (**Termos**) disciplinam sua utilização na versão acadêmica.
 
