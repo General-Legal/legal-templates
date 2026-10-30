@@ -1,8 +1,6 @@
 # Termos de Uso - OmniRehab Symbios
 
-**Versão:** 0.1 · **Elaboração:** 29/10/2026 · **Vigência:** [PREENCHER: data].
-
-> MINUTA PARA REVISÃO. Resolver os campos pendentes e validar os compromissos com o funcionamento do produto antes da publicação.
+**Versão:** 0.1 · **Elaboração:** 29/10/2026
 
 O software **OmniRehab** é disponibilizado pela **Symbios Tecnologias Assistivas LTDA**, CNPJ **43.698.052/0001-96**, com endereço em Av. Rio Branco, 1305, sala 103, Vitória, ES, doravante **Symbios**. Estes Termos de Uso (**Termos**) disciplinam sua utilização na versão acadêmica.
 
@@ -90,7 +88,7 @@ O uso de nome, marca, imagem ou depoimento da Instituição ou de participantes 
 
 ## 3. Privacidade e proteção de dados
 
-A [Política de Privacidade](politica-de-privacidade.md) descreve os dados tratados, suas finalidades, bases legais, compartilhamentos, retenção e direitos. URL pública: www.symbios.com.br/privacy-policy.
+A Política de Privacidade descreve os dados tratados, suas finalidades, bases legais, compartilhamentos, retenção e direitos. URL pública: www.symbios.com.br/privacy-policy.
 
 O [Acordo de Tratamento de Dados — DPA](acordo-de-tratamento-de-dados.md) disciplina as operações realizadas pela Symbios em nome da Instituição e será disponibilizado à contratante por **[PREENCHER: meio de disponibilização do DPA ou URL, quando público]**.
 
