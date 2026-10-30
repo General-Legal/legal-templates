@@ -1,4 +1,4 @@
-# Termos de Uso Acadêmico — Symbios
+# Termos de Uso - OmniRehab Symbios
 
 **Versão:** 0.1 · **Elaboração:** 29/10/2026 · **Vigência:** [PREENCHER: data].
 

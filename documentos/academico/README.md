@@ -7,7 +7,7 @@
 | Documento | O que estabelece |
 | --- | --- |
 | [Termos de Uso](termos-de-uso.md) | Licença acadêmica, acesso, supervisão, responsabilidades, propriedade intelectual e encerramento. |
-| [Política de Privacidade](politica-de-privacidade.md) | Dados tratados, finalidades, bases legais, nuvem e cópias locais, anonimização, retenção e direitos. |
+| [Política de Privacidade](politica-de-privacidade.md) | Estrutura do modelo GDPR: coleta, tecnologias, usos, retenção, compartilhamento, escolhas, segurança, transferências e aviso LGPD. |
 | [Acordo de Tratamento de Dados — DPA](acordo-de-tratamento-de-dados.md) | Instruções entre instituição e Symbios, segurança, fornecedores, incidentes, devolução e exclusão. |
 
 **Base recomendada:** General Legal, sob CC0. A [comparação das quatro opções](fontes-e-modelos.md) identifica as licenças e as adaptações necessárias.
@@ -16,12 +16,15 @@ Os Termos combinam a estrutura de onze seções do [modelo original](../../templ
 
 A [revisão comparativa das proteções da Symbios](revisao-termos-de-uso.md) registra as proteções preservadas, as adaptações e a pendência de definição do valor mínimo em reais do teto de responsabilidade. A seção de responsabilidade do DPA foi alinhada aos Termos para a relação contratual entre as partes, preservadas as responsabilidades obrigatórias perante titulares e autoridades.
 
+A Política segue a ordem das seções do modelo `privacy-policy-gdpr/template.md`, com adaptação dos avisos estrangeiros à LGPD. A [comparação da Política com o modelo](revisao-politica-de-privacidade.md) registra as correspondências, as informações confirmadas e os pontos pendentes. Os créditos e as notas de elaboração ficam nesta documentação interna, fora do texto da Política.
+
 ## Informações confirmadas pela Symbios
 
 - Razão social: **Symbios Tecnologias Assistivas LTDA**.
 - CNPJ: **43.698.052/0001-96**.
 - Contato de privacidade: **privacy@symbios.com.br**.
 - A versão acadêmica usa dados reais de pacientes.
+- Podem ser coletados dados demográficos, captura de movimento, sensores, imagens, áudio, vídeo, biometria, conteúdo de campos livres e preferências de comunicação comercial, conforme as funcionalidades e atividades utilizadas.
 - O armazenamento padrão é em nuvem; pode haver armazenamento temporário no computador do usuário.
 - A Symbios pode acessar os dados; o uso para melhorias e treinamentos fica limitado a dados anonimizados.
 
@@ -45,7 +48,7 @@ A licença proposta cobre ensino e pesquisa institucional com supervisão. Não 
 | Produto e licença | Nome/versão do produto, URLs públicas, funcionalidades, prazo, usuários autorizados, preços ou gratuidade, suporte e escopo de eventual uso assistencial. |
 | Limite de responsabilidade | Definir o valor mínimo em reais na seção 7.2 dos Termos e revisar sua adequação à contratação; a fórmula considera o maior entre esse valor e os pagamentos da licença/serviço afetado nos seis meses anteriores ao evento. |
 | Instituição | Razão social, identificação, responsável, contato de privacidade, pesquisadores e projetos abrangidos. |
-| Dados | Inventário exato: cadastro, sessões, métricas de reabilitação, diagnósticos, movimentos, imagens, áudio, vídeo, biometria e metadados, somente se realmente tratados. |
+| Dados | Detalhar campos, fontes, obrigatoriedade, finalidades e salvaguardas das categorias previstas, inclusive dados demográficos, movimentos, sensores, imagens, áudio, vídeo, biometria, campos livres e preferências de comunicação comercial. |
 | Bases legais | Hipótese por finalidade, inclusive anonimização e pesquisa; qualificação da instituição como órgão de pesquisa quando essa base for utilizada; consentimentos separados quando necessários. |
 | Ética e participantes | Protocolo, avaliação ética e TCLE quando exigidos; confirmar participação de crianças/adolescentes e requisitos próprios, incluindo melhor interesse e legislação aplicável ao produto. |
 | Nuvem e fornecedores | Provedor, entidade contratada, regiões, backups, acessos de suporte, suboperadores e países de acesso, inclusive remoto. |
@@ -57,6 +60,8 @@ A licença proposta cobre ensino e pesquisa institucional com supervisão. Não 
 | Jornada de aceite | Aceite dos Termos com registro da versão/data e acesso à Política; consentimentos específicos separados; aviso de pesquisa da instituição acessível ao paciente. |
 
 ## Como finalizar
+
+Para publicar a versão aprovada no aplicativo, siga o [guia de deployment dos Termos de Uso](../../docs/deploy-terms-of-use.md), com configuração por ambiente, upload, ativação da versão, verificação e rollback.
 
 1. Resolver todos os campos `[PREENCHER: ...]` e `[VALIDAR: ...]` e preencher os anexos do DPA para cada instituição/projeto.
 2. Confrontar os textos com o inventário e com os controles efetivos, inclusive cache, exportações, telemetria e fornecedores. Ajustar o produto ou a obrigação antes de assumir compromissos.

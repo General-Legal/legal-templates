@@ -30,7 +30,7 @@ Documentos jurídicos com licenças abertas podem ser reutilizados, mas isso nã
 ## Adaptações principais
 
 - Termos: seguir a estrutura de onze seções do modelo original e preservar as proteções da Symbios, inclusive indenização, restrições de uso, licença de sugestões, isenções, exclusões e teto de responsabilidade; adaptar moeda, foro, arbitragem e normas obrigatórias ao contexto brasileiro. O valor mínimo do teto em reais permanece para definição comercial. Ver [revisão comparativa](revisao-termos-de-uso.md).
-- Privacidade: retirar finalidades genéricas de publicidade e listas de coleta não confirmadas; identificar a empresa e criar inventário por finalidade e base legal.
+- Privacidade: seguir as seções e a ordem do modelo GDPR; preservar coleta, tecnologias, operação, proteção de direitos, retenção, compartilhamento, escolhas e atualização, adaptando os avisos legais à LGPD. Dados de pacientes, nuvem, cópias locais e melhorias/treinamentos anonimizados refletem o fluxo informado; marketing, integrações e demais práticas não confirmadas permanecem para validação. Ver [comparação da Política](revisao-politica-de-privacidade.md).
 - DPA: contemplar dados reais de saúde, instruções, fornecedores, segurança, incidentes, retenção e anonimização; não importar automaticamente anexos GDPR, HIPAA ou cláusulas europeias.
 - Melhorias e treinamentos: permitir somente dados efetivamente anonimizados; exigir análise jurídica e técnica da etapa de anonimização e vedar reidentificação.
 
